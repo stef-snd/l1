@@ -1,0 +1,739 @@
+Domain Code,Domain,Item Code,Item,Description
+EI,Agri-Environmental Indicators: Emissions intensities,1718,Cereals excluding rice,
+EI,Agri-Environmental Indicators: Emissions intensities,1062,"Eggs, hen, in shell",Weight in shell.
+EI,Agri-Environmental Indicators: Emissions intensities,947,"Meat, buffalo","Fresh, chilled or frozen, with bone in or boneless."
+EI,Agri-Environmental Indicators: Emissions intensities,867,"Meat, cattle","Meat of bovine animals, fresh, chilled or frozen, with bone in. Commontrade names are beef and veal."
+EI,Agri-Environmental Indicators: Emissions intensities,1058,"Meat, chicken","Fresh, chilled or frozen. May include all types of poultry meat ifnational statistics do not report separate data."
+EI,Agri-Environmental Indicators: Emissions intensities,1017,"Meat, goat","Meat of goats and kids, whether fresh, chilled or frozen, with bone inor boneless."
+EI,Agri-Environmental Indicators: Emissions intensities,1035,"Meat, pig","Meat, with the bone in, of domestic or wild pigs (e.g. wild boars),whether fresh, chilled or frozen."
+EI,Agri-Environmental Indicators: Emissions intensities,977,"Meat, sheep","Meat of sheep and lamb, whether fresh, chilled or frozen, with bone inor boneless."
+EI,Agri-Environmental Indicators: Emissions intensities,951,"Milk, whole fresh buffalo",See 882 and derived products.
+EI,Agri-Environmental Indicators: Emissions intensities,1130,"Milk, whole fresh camel",See 882.
+EI,Agri-Environmental Indicators: Emissions intensities,882,"Milk, whole fresh cow","Production data refer to raw milk containing all its constituents. Trade data normally cover milk from any animal, and refer to milk that is not concentrated, pasteurized, sterilized or other-wise preserved, homogenized or peptonized."
+EI,Agri-Environmental Indicators: Emissions intensities,1020,"Milk, whole fresh goat",See 882 and derived products.
+EI,Agri-Environmental Indicators: Emissions intensities,982,"Milk, whole fresh sheep",See 882 and derived products.
+EI,Agri-Environmental Indicators: Emissions intensities,27,"Rice, paddy","Oryza spp., mainly oryza sativa. Rice grain after threshing and winnowing. Also known as rice in the husk and rough rice. Used mainly for human food."
+EM,Agri-Environmental Indicators: Emissions shares,6822,Agricultural land use,
+EM,Agri-Environmental Indicators: Emissions shares,6986,Agriculture and related land use,
+EM,Agri-Environmental Indicators: Emissions shares,1711,Agriculture total,
+EM,Agri-Environmental Indicators: Emissions shares,6821,Energy,
+EM,Agri-Environmental Indicators: Emissions shares,6817,Industrial processes and product use,
+EM,Agri-Environmental Indicators: Emissions shares,6820,International Bunkers,
+EM,Agri-Environmental Indicators: Emissions shares,6819,Other n.e.c.,
+EM,Agri-Environmental Indicators: Emissions shares,6825,Total emissions with agricultural land use,
+EM,Agri-Environmental Indicators: Emissions shares,6829,Total emissions without land use,
+EM,Agri-Environmental Indicators: Emissions shares,6818,Waste,
+EF,Agri-Environmental Indicators: Fertilizers indicators,3102,Nutrient nitrogen N (total),Total nitrogen (N) from all fertilizer products
+EF,Agri-Environmental Indicators: Fertilizers indicators,3103,Nutrient phosphate P2O5 (total),Total phosphate (P2O5) from all fertilizer products
+EF,Agri-Environmental Indicators: Fertilizers indicators,3104,Nutrient potash K2O (total),Total potash (K2O) from all fertilizer products
+LC,Agri-Environmental Indicators: Land Cover,6970,Artificial surfaces (including urban and associated areas),
+LC,Agri-Environmental Indicators: Land Cover,6982,Coastal water bodies and intertidal areas,
+LC,Agri-Environmental Indicators: Land Cover,6983,Grassland,
+LC,Agri-Environmental Indicators: Land Cover,6971,Herbaceous crops,
+LC,Agri-Environmental Indicators: Land Cover,6981,Inland water bodies,
+LC,Agri-Environmental Indicators: Land Cover,6975,Mangroves,
+LC,Agri-Environmental Indicators: Land Cover,6973,Multiple or layered crops,
+LC,Agri-Environmental Indicators: Land Cover,6980,Permanent snow and glaciers,
+LC,Agri-Environmental Indicators: Land Cover,6976,Shrub-covered areas,
+LC,Agri-Environmental Indicators: Land Cover,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",
+LC,Agri-Environmental Indicators: Land Cover,6978,Sparsely natural vegetated areas,
+LC,Agri-Environmental Indicators: Land Cover,6979,Terrestrial barren land,
+LC,Agri-Environmental Indicators: Land Cover,6974,Tree-covered areas,
+LC,Agri-Environmental Indicators: Land Cover,6972,Woody crops,
+EL,Agri-Environmental Indicators: Land use indicators,6610,Agricultural land,Land used for cultivation of crops and animal husbandry. The total of areas under ''Cropland'' and ''Permanent meadows and pastures.''
+EL,Agri-Environmental Indicators: Land use indicators,6611,Agriculture area actually irrigated,Land area actually irrigated that is Agriculture.
+EL,Agri-Environmental Indicators: Land use indicators,6671,Agriculture area under organic agric.,'Agriculture'' area certified organic and/or in conversion to organic.
+EL,Agri-Environmental Indicators: Land use indicators,6621,Arable land,"The total of areas under temporary crops, temporary meadows and pastures, and land with temporary fallow.  Arable land does not include land that is potentially cultivable but is not normally cultivated."
+EL,Agri-Environmental Indicators: Land use indicators,6620,Cropland,Land used for cultivation of crops. The total of areas under ''Arable land'' and ''Permanent crops''.
+EL,Agri-Environmental Indicators: Land use indicators,6646,Forest land,"Land spanning more than 0.5 hectares with trees higher than 5 metres and a canopy cover of more than 10 per cent, or trees able to reach these thresholds in situ. Excludes land that is predominantly under agricultural or urban land use, and land that is predominantly used for maintenance and restoration of environmental function. Explanatory notes:• Forest land is determined both by the presence of trees and by the absence of other predominant land uses. The trees should be able to reach a minimum height of 5 metres in situ• Includes areas with young trees that have not yet reached but that are expected to reach a canopy cover of 10 per cent and tree height of 5 metres. It also includes areas that are temporarily unstocked owing to clear-cutting as part of a forest management practice or natural disasters, and that are expected to be regenerated within five years. Local conditions may, in exceptional cases, justify the use of a longer time frame• Includes forest roads, firebreaks and other small open areas• May include forest land in national parks, nature reserves and other protected areas, such as those of specific environmental, scientific, historical, cultural orspiritual interest• Includes windbreaks, shelter belts and corridors of trees with an area of more than 0.5 hectares and width of more than 20 metres• Includes abandoned shifting cultivation land with a regeneration of trees that have, or is expected to reach, a canopy cover of 10 per cent and tree height of 5 metres• Includes areas with mangroves in tidal zones, regardless of whether this area is classified as land area or not• Includes areas with bamboo and palms provided that land use, height and canopy cover criteria are met• Some agroforestry systems such as the taungya system, where crops are grown only during the first years of the forest rotation should be classified as forest• Excludes: tree stands in agricultural production systems, such as fruit-tree plantations (→Permanent crops), oil palm plantations, rubber and Christmas trees (→Permanent crops) and agroforestry systems when crops are grown under tree cover"
+EL,Agri-Environmental Indicators: Land use indicators,6690,Land area equipped for irrigation,"Land area equipped with irrigation infrastructure and equipment to provide water to crops, which are in working order. The equipment does not have to be used during the reference year. The area equipped for irrigation covers areas equipped for fully controlled irrigation by any of the methods of surface, sprinkler or localized irrigation. It also includes areas under partially controlled irrigation methods of spate irrigation (controlling flood waters to water crops), equipped wetlands and inland valley bottoms and equipped flood recession. It excludes manual watering of plants using buckets, watering cans or other devices."
+EL,Agri-Environmental Indicators: Land use indicators,6655,Land under perm. meadows and pastures,"Land used permanently (five years or more) to grow herbaceous forage crops through cultivation or naturally (wild prairie or grazing land). Permanent meadows and pastures on which trees and shrubs are grown should be recorded under this heading only if the growing of forage crops is the most important use of the area. Measures may be taken to keep or increase productivity of the land (i.e., use of fertilizers, mowing or systematic grazing by domestic animals.) This class includes:• Grazing in wooded areas (agroforestry areas, for example)• Grazing in shrubby zones (heath, maquis, garigue)• Grassland in the plain or low mountain areas used for grazing: land crossed during transhumance where the animals spend a part of the year (approximately 100 days) without returning to the holding in the evening: mountain and subalpine meadows and similar; and steppes and dry meadows used for pasture."
+EL,Agri-Environmental Indicators: Land use indicators,6650,Land under permanent crops,"Land cultivated with long-term crops which do not have to be replanted for several years (such as cocoa and coffee), land under trees and shrubs producing flowers (such as roses and jasmine), and nurseries (except those for forest trees, which should be classified under ""Forestry""). Permanent meadows and pastures are excluded from land under permanent crops."
+EL,Agri-Environmental Indicators: Land use indicators,6717,Naturally regenerating forest,"Forest predominantly composed of trees established through natural regeneration.Explanatory notes1. Includes forests for which it is not possible to distinguish whether planted or naturally regenerated. 2. Includes forests with a mix of naturally regenerated native tree species and planted/seeded trees, and where the naturally regenerated trees are expected to constitute the major part of the growing stock at stand maturity. 3. Includes coppice from trees originally established through natural regeneration. 4. Includes naturally regenerated trees of introduced species."
+EL,Agri-Environmental Indicators: Land use indicators,6716,Planted Forest,"Forest predominantly composed of trees established through planting and/or deliberate seeding.Explanatory notes1. In this context, predominantly means that the planted/seeded trees are expected to constitute more than 50 percent of the growing stock at maturity. 2. Includes coppice from trees that were originally planted or seeded."
+EMN,Agri-Environmental Indicators: Livestock Manure,1755,All Animals,
+EMN,Agri-Environmental Indicators: Livestock Manure,1107,Asses,Equus asinus. See 866.
+EMN,Agri-Environmental Indicators: Livestock Manure,946,Buffaloes,"Indian, Asiatic, pigmy, water buffalo (Bubalus bubalus; B. arnee; B. depressicornis); African buffalo (genus Syncerus); American bison (Bison bison); European bison (Bison bonasus); beeffalo (cross between a bison and a domesticated beef animal). See 866. Excludes wild bisons and buffaloes."
+EMN,Agri-Environmental Indicators: Livestock Manure,1126,Camels,Bactrian camel (Camelus bactrianus); Arabian camel (C. dromedarius). See 866.
+EMN,Agri-Environmental Indicators: Livestock Manure,1760,Camels and Llamas,
+EMN,Agri-Environmental Indicators: Livestock Manure,1757,Cattle,
+EMN,Agri-Environmental Indicators: Livestock Manure,960,"Cattle, dairy","Common ox (Bos taurus); zebu, humped ox (Bos indicus); Asiatic ox (subgenus Bibos); Tibetan yak (Poephagus grunniens). Animals of the genus listed, that are producing milk in commercial quantities for human consumption."
+EMN,Agri-Environmental Indicators: Livestock Manure,961,"Cattle, non-dairy","Common ox (Bos taurus); zebu, humped ox (Bos indicus); Asiatic ox (subgenus Bibos); Tibetan yak (Poephagus grunniens). Animals of the genus listed, that are produce calves for meat or to provide draft power."
+EMN,Agri-Environmental Indicators: Livestock Manure,1054,Chickens,
+EMN,Agri-Environmental Indicators: Livestock Manure,1053,"Chickens, broilers",
+EMN,Agri-Environmental Indicators: Livestock Manure,1052,"Chickens, layers",
+EMN,Agri-Environmental Indicators: Livestock Manure,1068,Ducks,Anas spp.. See 1057.
+EMN,Agri-Environmental Indicators: Livestock Manure,1016,Goats,"Capra spp.. See 866. Includes Hircus, Ibex, Nubiana, Pyrenaica, Tibetana, Kashmir and Angora."
+EMN,Agri-Environmental Indicators: Livestock Manure,1096,Horses,Equus caballus. See 866.
+EMN,Agri-Environmental Indicators: Livestock Manure,1177,Llamas,See Other camelids.
+EMN,Agri-Environmental Indicators: Livestock Manure,1110,Mules,Includes hinnies. Mules are offspring of a male ass and a female horse (mare); a hinny is the offspring of a female ass and a male horse (stallion). Both are sterile. See 866.
+EMN,Agri-Environmental Indicators: Livestock Manure,1759,Mules and Asses,
+EMN,Agri-Environmental Indicators: Livestock Manure,2029,Poultry Birds,
+EMN,Agri-Environmental Indicators: Livestock Manure,976,Sheep,"Ovis spp.. See 866. Includes Uriel, Argali, Bighorn, Karakul and Astrakhan."
+EMN,Agri-Environmental Indicators: Livestock Manure,1749,Sheep and Goats,
+EMN,Agri-Environmental Indicators: Livestock Manure,1048,Swine,
+EMN,Agri-Environmental Indicators: Livestock Manure,1051,"Swine, breeding",
+EMN,Agri-Environmental Indicators: Livestock Manure,1049,"Swine, market",
+EMN,Agri-Environmental Indicators: Livestock Manure,1079,Turkeys,Meleagris gallopavo. See 1057.
+EK,Agri-Environmental Indicators: Livestock Patterns,1107,Asses,Equus asinus. See 866.
+EK,Agri-Environmental Indicators: Livestock Patterns,946,Buffaloes,"Indian, Asiatic, pigmy, water buffalo (Bubalus bubalus; B. arnee; B. depressicornis); African buffalo (genus Syncerus); American bison (Bison bison); European bison (Bison bonasus); beeffalo (cross between a bison and a domesticated beef animal). See 866. Excludes wild bisons and buffaloes."
+EK,Agri-Environmental Indicators: Livestock Patterns,1126,Camels,Bactrian camel (Camelus bactrianus); Arabian camel (C. dromedarius). See 866.
+EK,Agri-Environmental Indicators: Livestock Patterns,866,Cattle,"Common ox (Bos taurus); zebu, humped ox (Bos indicus); Asiatic ox (subgenus Bibos); Tibetan yak (Poephagus grunniens). Animals of the genus listed, regardless of age, sex, or purpose raised. Data are expressed in number of heads."
+EK,Agri-Environmental Indicators: Livestock Patterns,1746,Cattle and Buffaloes,
+EK,Agri-Environmental Indicators: Livestock Patterns,1057,Chickens,Fowl (Gallus domesticus); Guinea fowl (Numida meleagris. Domesticated birds only. Data are expressed in thousands.
+EK,Agri-Environmental Indicators: Livestock Patterns,1764,Equidae,
+EK,Agri-Environmental Indicators: Livestock Patterns,1016,Goats,"Capra spp.. See 866. Includes Hircus, Ibex, Nubiana, Pyrenaica, Tibetana, Kashmir and Angora."
+EK,Agri-Environmental Indicators: Livestock Patterns,1096,Horses,Equus caballus. See 866.
+EK,Agri-Environmental Indicators: Livestock Patterns,1752,Major livestock types,
+EK,Agri-Environmental Indicators: Livestock Patterns,1110,Mules,Includes hinnies. Mules are offspring of a male ass and a female horse (mare); a hinny is the offspring of a female ass and a male horse (stallion). Both are sterile. See 866.
+EK,Agri-Environmental Indicators: Livestock Patterns,1034,Pigs,Domestic pig (Sus domestica); wild boar (Sus scrofa). See 866. Excludes non-domesticated wild boars.
+EK,Agri-Environmental Indicators: Livestock Patterns,976,Sheep,"Ovis spp.. See 866. Includes Uriel, Argali, Bighorn, Karakul and Astrakhan."
+EK,Agri-Environmental Indicators: Livestock Patterns,1749,Sheep and Goats,
+EP,Agri-Environmental Indicators: Pesticides indicators,1357,Pesticides (total),"Total pesticides, covering insecticides, fungicides and bactericides (including seed treatments), herbicides, plant growth regulators, rodenticides, mineral oils, disinfectants and others."
+AE,ASTI R&D Indicators: ASTI-Expenditures,23045,Agriculture research spending,
+AF,ASTI R&D Indicators: ASTI-Researchers,23046,Agricultural researchers,
+FA,Emergency Response: Food Aid Shipments (WFP),10109,Blended And Mix,
+FA,Emergency Response: Food Aid Shipments (WFP),10021,Bulgur Wheat Total,
+FA,Emergency Response: Food Aid Shipments (WFP),11938,Butter Oil Total,
+FA,Emergency Response: Food Aid Shipments (WFP),12061,Cereals,
+FA,Emergency Response: Food Aid Shipments (WFP),11988,Coarse Grains,
+FA,Emergency Response: Food Aid Shipments (WFP),11733,Dried Fruits Total,
+FA,Emergency Response: Food Aid Shipments (WFP),11853,Edible Fat Total,
+FA,Emergency Response: Food Aid Shipments (WFP),11839,Fish & Products,
+FA,Emergency Response: Food Aid Shipments (WFP),11765,Meat & Products,
+FA,Emergency Response: Food Aid Shipments (WFP),11934,"Milk, Total",
+FA,Emergency Response: Food Aid Shipments (WFP),12062,Non-Cereals,
+FA,Emergency Response: Food Aid Shipments (WFP),11815,Other Dairy Products,
+FA,Emergency Response: Food Aid Shipments (WFP),11704,Other Non-Cereals,
+FA,Emergency Response: Food Aid Shipments (WFP),11726,"Pulses, Total",
+FA,Emergency Response: Food Aid Shipments (WFP),10031,Rice Total,
+FA,Emergency Response: Food Aid Shipments (WFP),11890,Sugar Total,
+FA,Emergency Response: Food Aid Shipments (WFP),11788,Vegetable Oils,
+FA,Emergency Response: Food Aid Shipments (WFP),11945,Wheat & Wheat Flour,
+GT,Emissions - Agriculture: Emissions Totals,6824,AFOLU,
+GT,Emissions - Agriculture: Emissions Totals,1709,Agricultural Soils,
+GT,Emissions - Agriculture: Emissions Totals,5066,Burning - Crop residues,Agriculture management practice that consists in the combustion of a percentage of crop residues burnt on-site. Greenhouse gas emissions from burning crop residues are methane and nitrous oxide gases.
+GT,Emissions - Agriculture: Emissions Totals,5064,Crop Residues,Agriculture management practice that consists in returning to managed soils the residual part of the produce. The associated greenhouse gas emissions are nitrous oxide gas from crop residues’ decomposition.
+GT,Emissions - Agriculture: Emissions Totals,6729,Drained organic soils,
+GT,Emissions - Agriculture: Emissions Totals,67292,Drained organic soils (CO2),
+GT,Emissions - Agriculture: Emissions Totals,67291,Drained organic soils (N2O),
+GT,Emissions - Agriculture: Emissions Totals,6995,Emissions on agricultural land,
+GT,Emissions - Agriculture: Emissions Totals,5058,Enteric Fermentation,Digestive process by which carbohydrates are broken down by micro organisms into simple molecules for absorption into the bloodstream of an animal. Greenhouse gas emissions from enteric fermentation consist of methane gas.
+GT,Emissions - Agriculture: Emissions Totals,6996,Farm-gate emissions,
+GT,Emissions - Agriculture: Emissions Totals,69921,Fires in humid tropical forests,
+GT,Emissions - Agriculture: Emissions Totals,6993,Fires in organic soils,
+GT,Emissions - Agriculture: Emissions Totals,6992,Forest fires,
+GT,Emissions - Agriculture: Emissions Totals,6751,Forestland,
+GT,Emissions - Agriculture: Emissions Totals,1711,IPCC Agriculture,
+GT,Emissions - Agriculture: Emissions Totals,1707,LULUCF,
+GT,Emissions - Agriculture: Emissions Totals,5062,Manure applied to Soils,Animal waste distributed on fields in amounts that enrich soils. Greenhouse gas emissions from manure applied to soils consist of nitrous oxide gas from manure added to managed soils.
+GT,Emissions - Agriculture: Emissions Totals,5063,Manure left on Pasture,Animal waste left on managed soils from grazing livestock. Greenhouse gas emissions from manure left on pasture consist of nitrous oxide gas.
+GT,Emissions - Agriculture: Emissions Totals,5059,Manure Management,"Refers to capture, storage, treatment, and utilization of animal manure. Greenhouse gas emissions from manure management consist of methane and nitrous oxide gases from aerobic and anaerobic manure decomposition processes."
+GT,Emissions - Agriculture: Emissions Totals,6750,Net Forest conversion,"The net forest conversion is calculated as the difference of forest area for two consecutive years, consistently with IPCC approach 1. The term “net” indicates that no further specification on the underlying dynamics of the computed land area change is possible. Greenhouse gas emissions consist of the net contribution of CO2 sources and sinks due to deforestation, reforestation and afforestation activities within countries."
+GT,Emissions - Agriculture: Emissions Totals,6994,On-farm energy use,
+GT,Emissions - Agriculture: Emissions Totals,5060,Rice Cultivation,Agricultural practice for growing rice seeds. Greenhouse gas emissions from rice cultivation consist of methane gas from the anaerobic decomposition of organic matter in paddy fields.
+GT,Emissions - Agriculture: Emissions Totals,6795,Savanna fires,
+GT,Emissions - Agriculture: Emissions Totals,5061,Synthetic Fertilizers,Inorganic material of synthetic origin added to a soil to supply one or more plant nutrients essential to the growth of plants. Greenhouse gas emissions from synthetic fertilizers consist of the addition of nitrous oxide gas to managed soils.
+GUNF,Emissions - Agriculture: GHG UNFCCC,1709,Agricultural Soils,
+GUNF,Emissions - Agriculture: GHG UNFCCC,1711,Agriculture total,
+GUNF,Emissions - Agriculture: GHG UNFCCC,1755,All Animals,
+GUNF,Emissions - Agriculture: GHG UNFCCC,1712,All Crops,
+GUNF,Emissions - Agriculture: GHG UNFCCC,6722,Animal manure applied to soils,
+GUNF,Emissions - Agriculture: GHG UNFCCC,1107,Asses,Equus asinus. See 866.
+GUNF,Emissions - Agriculture: GHG UNFCCC,946,Buffaloes,"Indian, Asiatic, pigmy, water buffalo (Bubalus bubalus; B. arnee; B. depressicornis); African buffalo (genus Syncerus); American bison (Bison bison); European bison (Bison bonasus); beeffalo (cross between a bison and a domesticated beef animal). See 866. Excludes wild bisons and buffaloes."
+GUNF,Emissions - Agriculture: GHG UNFCCC,1126,Camels,Bactrian camel (Camelus bactrianus); Arabian camel (C. dromedarius). See 866.
+GUNF,Emissions - Agriculture: GHG UNFCCC,1760,Camels and Llamas,
+GUNF,Emissions - Agriculture: GHG UNFCCC,960,"Cattle, dairy","Common ox (Bos taurus); zebu, humped ox (Bos indicus); Asiatic ox (subgenus Bibos); Tibetan yak (Poephagus grunniens). Animals of the genus listed, that are producing milk in commercial quantities for human consumption."
+GUNF,Emissions - Agriculture: GHG UNFCCC,961,"Cattle, non-dairy","Common ox (Bos taurus); zebu, humped ox (Bos indicus); Asiatic ox (subgenus Bibos); Tibetan yak (Poephagus grunniens). Animals of the genus listed, that are produce calves for meat or to provide draft power."
+GUNF,Emissions - Agriculture: GHG UNFCCC,1054,Chickens,
+GUNF,Emissions - Agriculture: GHG UNFCCC,5064,Crop Residues,Agriculture management practice that consists in returning to managed soils the residual part of the produce. The associated greenhouse gas emissions are nitrous oxide gas from crop residues’ decomposition.
+GUNF,Emissions - Agriculture: GHG UNFCCC,6729,Cropland and grassland organic soils,
+GUNF,Emissions - Agriculture: GHG UNFCCC,6734,Cultivation of histosols,
+GUNF,Emissions - Agriculture: GHG UNFCCC,5056,Direct soil emissions,
+GUNF,Emissions - Agriculture: GHG UNFCCC,1068,Ducks,Anas spp.. See 1057.
+GUNF,Emissions - Agriculture: GHG UNFCCC,5058,Enteric Fermentation,Digestive process by which carbohydrates are broken down by micro organisms into simple molecules for absorption into the bloodstream of an animal. Greenhouse gas emissions from enteric fermentation consist of methane gas.
+GUNF,Emissions - Agriculture: GHG UNFCCC,6731,Field burning of agricultural residues,
+GUNF,Emissions - Agriculture: GHG UNFCCC,1016,Goats,"Capra spp.. See 866. Includes Hircus, Ibex, Nubiana, Pyrenaica, Tibetana, Kashmir and Angora."
+GUNF,Emissions - Agriculture: GHG UNFCCC,1096,Horses,Equus caballus. See 866.
+GUNF,Emissions - Agriculture: GHG UNFCCC,5057,Indirect emissions,
+GUNF,Emissions - Agriculture: GHG UNFCCC,1177,Llamas,See Other camelids.
+GUNF,Emissions - Agriculture: GHG UNFCCC,56,Maize,"Zea mays Corn, Indian corn, mealies. A grain with a high germ content. At the national level, hybrid and ordinary maize should be reported separately owing to widely different yields and uses. Used largely for animal feed and commercial starch production."
+GUNF,Emissions - Agriculture: GHG UNFCCC,5059,Manure Management,"Refers to capture, storage, treatment, and utilization of animal manure. Greenhouse gas emissions from manure management consist of methane and nitrous oxide gases from aerobic and anaerobic manure decomposition processes."
+GUNF,Emissions - Agriculture: GHG UNFCCC,1110,Mules,Includes hinnies. Mules are offspring of a male ass and a female horse (mare); a hinny is the offspring of a female ass and a male horse (stallion). Both are sterile. See 866.
+GUNF,Emissions - Agriculture: GHG UNFCCC,1759,Mules and Asses,
+GUNF,Emissions - Agriculture: GHG UNFCCC,3102,Nutrient nitrogen N (total),Total nitrogen (N) from all fertilizer products
+GUNF,Emissions - Agriculture: GHG UNFCCC,6725,Other (Agricultural Emissions),
+GUNF,Emissions - Agriculture: GHG UNFCCC,6723,Other Direct Emissions,
+GUNF,Emissions - Agriculture: GHG UNFCCC,6724,Other from Agricultural Soils,
+GUNF,Emissions - Agriculture: GHG UNFCCC,6735,Pasture range and paddock manure,
+GUNF,Emissions - Agriculture: GHG UNFCCC,2029,Poultry Birds,
+GUNF,Emissions - Agriculture: GHG UNFCCC,6736,Prescribed burning of savannas,
+GUNF,Emissions - Agriculture: GHG UNFCCC,5060,Rice Cultivation,Agricultural practice for growing rice seeds. Greenhouse gas emissions from rice cultivation consist of methane gas from the anaerobic decomposition of organic matter in paddy fields.
+GUNF,Emissions - Agriculture: GHG UNFCCC,27,"Rice, paddy","Oryza spp., mainly oryza sativa. Rice grain after threshing and winnowing. Also known as rice in the husk and rough rice. Used mainly for human food."
+GUNF,Emissions - Agriculture: GHG UNFCCC,976,Sheep,"Ovis spp.. See 866. Includes Uriel, Argali, Bighorn, Karakul and Astrakhan."
+GUNF,Emissions - Agriculture: GHG UNFCCC,156,Sugar cane,"Saccharum officinarum. In some producing countries, marginal quantities of sugar cane are consumed, either directly as food or in the form of juice."
+GUNF,Emissions - Agriculture: GHG UNFCCC,1048,Swine,
+GUNF,Emissions - Agriculture: GHG UNFCCC,5061,Synthetic Fertilizers,Inorganic material of synthetic origin added to a soil to supply one or more plant nutrients essential to the growth of plants. Greenhouse gas emissions from synthetic fertilizers consist of the addition of nitrous oxide gas to managed soils.
+GUNF,Emissions - Agriculture: GHG UNFCCC,1079,Turkeys,Meleagris gallopavo. See 1057.
+GUNF,Emissions - Agriculture: GHG UNFCCC,15,Wheat,"Triticum spp.: common (T. aestivum) durum (T. durum) spelt (T. spelta). Common and durum wheat are the main types. Among common wheat, the main varieties are spring and winter, hard and soft, and red and white. At the national level, different varieties should be reported separately, reflecting their different uses. Used mainly for human food."
+GB,Emissions: Burning - Crop Residues,1712,All Crops,
+GB,Emissions: Burning - Crop Residues,56,Maize,"Zea mays Corn, Indian corn, mealies. A grain with a high germ content. At the national level, hybrid and ordinary maize should be reported separately owing to widely different yields and uses. Used largely for animal feed and commercial starch production."
+GB,Emissions: Burning - Crop Residues,27,"Rice, paddy","Oryza spp., mainly oryza sativa. Rice grain after threshing and winnowing. Also known as rice in the husk and rough rice. Used mainly for human food."
+GB,Emissions: Burning - Crop Residues,156,Sugar cane,"Saccharum officinarum. In some producing countries, marginal quantities of sugar cane are consumed, either directly as food or in the form of juice."
+GB,Emissions: Burning - Crop Residues,15,Wheat,"Triticum spp.: common (T. aestivum) durum (T. durum) spelt (T. spelta). Common and durum wheat are the main types. Among common wheat, the main varieties are spring and winter, hard and soft, and red and white. At the national level, different varieties should be reported separately, reflecting their different uses. Used mainly for human food."
+GA,Emissions: Crop Residues,1712,All Crops,
+GA,Emissions: Crop Residues,44,Barley,"Hordeum spp.: two-row barley (H. disticum) six-row barley (H. hexasticum) four-row barley (H. vulgare). Tolerates poorer soils and lower temperatures better than does wheat. Varieties include with husk and without (naked). Used as a livestock feed, for malt and for preparing foods. The roasted grains are a coffee substitute."
+GA,Emissions: Crop Residues,176,"Beans, dry","Phaseolus spp.: kidney, haricot bean (Ph. vulgaris); lima, butter bean (Ph. lunatus); adzuki bean (Ph. angularis); mungo bean, golden, green gram (Ph. aureus); black gram, urd (Ph. mungo); scarlet runner bean (Ph. coccineus); rice bean (Ph. calcaratus); moth bean (Ph. aconitifolius); tepary bean (Ph. acutifolius). Only species of Phaseolus should be included, though several countries also include certain types of beans. Commonly classified as Vigna (angularis, mungo, radiata, aconitifolia). In the past, these species were also classified as Phaseolus."
+GA,Emissions: Crop Residues,56,Maize,"Zea mays Corn, Indian corn, mealies. A grain with a high germ content. At the national level, hybrid and ordinary maize should be reported separately owing to widely different yields and uses. Used largely for animal feed and commercial starch production."
+GA,Emissions: Crop Residues,79,Millet,"Including inter alia: barnyard or Japanese millet (Echinocloa frumentacea); ragi, finger or African millet (Eleusine coracana); teff (Eragrostis abyssinica); common, golden or proso millet (Panicum miliaceum); koda or ditch millet (Paspalum scrobiculatum); pearl or cattail millet (Pennisetum glaucum); foxtail millet (Setaria italica). Small-grained cereals that include a large number of different botanical species. Originated by the domestication of wild African grasses in the Nile valley and the Sahel zone, millets were subsequently taken to China and India. These cereals tolerate arid conditions and possess a small, highly nutritious grain that stores well. Used locally, both as a food and as a livestock feed. In all areas where they are cultivated, millets are used in traditional beer brewing. Also used as a feed for birds."
+GA,Emissions: Crop Residues,75,Oats,"Avena spp., mainly Avena sativa. A plant with open, spreading panicle-bearing large spikelets. Used primarily in breakfast foods. Makes excellent fodder for horses."
+GA,Emissions: Crop Residues,116,Potatoes,"Solanum tuberosum Irish potato. A seasonal crop grown in temperate zones all over the world, but primarily in the northern hemisphere."
+GA,Emissions: Crop Residues,27,"Rice, paddy","Oryza spp., mainly oryza sativa. Rice grain after threshing and winnowing. Also known as rice in the husk and rough rice. Used mainly for human food."
+GA,Emissions: Crop Residues,71,Rye,"Secale cereale. A grain that is tolerant of poor soils, high latitudes and altitudes. Mainly used in making bread, whisky and beer. When fed to livestock, it is generally mixed with other grains."
+GA,Emissions: Crop Residues,83,Sorghum,"Sorghum spp.: guinea corn (S. guineense); common, milo, feterita, kaffir corn (S. vulgare); durra, jowar, kaoliang (S. dura). A cereal that has both food and feed uses. Sorghum is a major food grain in most of Africa, where it is also used in traditional beer brewing. It is desirable to report hybrid and other varieties separately."
+GA,Emissions: Crop Residues,236,Soybeans,"Glycine soja. The most important oil crop. Also widely consumed as a bean and in the form of various derived products because of its high protein content, e.g. soya milk, meat, etc."
+GA,Emissions: Crop Residues,15,Wheat,"Triticum spp.: common (T. aestivum) durum (T. durum) spelt (T. spelta). Common and durum wheat are the main types. Among common wheat, the main varieties are spring and winter, hard and soft, and red and white. At the national level, different varieties should be reported separately, reflecting their different uses. Used mainly for human food."
+GV,Emissions: Drained organic soils,6727,Cropland organic soils,
+GV,Emissions: Drained organic soils,6729,Drained organic soils,
+GV,Emissions: Drained organic soils,6728,Grassland organic soils,
+GN,Emissions: Energy Use,6809,Coal,
+GN,Emissions: Energy Use,6807,Electricity,
+GN,Emissions: Energy Use,6811,Energy used in fishery,
+GN,Emissions: Energy Use,6804,Fuel oil,
+GN,Emissions: Energy Use,6806,Fuel oil used in fisheries,
+GN,Emissions: Energy Use,6801,Gas-Diesel oil,
+GN,Emissions: Energy Use,6803,Gas-diesel oils used in fisheries,
+GN,Emissions: Energy Use,6805,Liquefied petroleum gas (LPG),
+GN,Emissions: Energy Use,6800,Motor Gasoline,
+GN,Emissions: Energy Use,6802,Natural gas (including LNG),
+GN,Emissions: Energy Use,6813,Total Energy,
+GN,Emissions: Energy Use,6812,Total Energy (excl. electricity),
+GE,Emissions: Enteric Fermentation,1755,All Animals,
+GE,Emissions: Enteric Fermentation,1107,Asses,Equus asinus. See 866.
+GE,Emissions: Enteric Fermentation,946,Buffaloes,"Indian, Asiatic, pigmy, water buffalo (Bubalus bubalus; B. arnee; B. depressicornis); African buffalo (genus Syncerus); American bison (Bison bison); European bison (Bison bonasus); beeffalo (cross between a bison and a domesticated beef animal). See 866. Excludes wild bisons and buffaloes."
+GE,Emissions: Enteric Fermentation,1126,Camels,Bactrian camel (Camelus bactrianus); Arabian camel (C. dromedarius). See 866.
+GE,Emissions: Enteric Fermentation,1760,Camels and Llamas,
+GE,Emissions: Enteric Fermentation,1757,Cattle,
+GE,Emissions: Enteric Fermentation,960,"Cattle, dairy","Common ox (Bos taurus); zebu, humped ox (Bos indicus); Asiatic ox (subgenus Bibos); Tibetan yak (Poephagus grunniens). Animals of the genus listed, that are producing milk in commercial quantities for human consumption."
+GE,Emissions: Enteric Fermentation,961,"Cattle, non-dairy","Common ox (Bos taurus); zebu, humped ox (Bos indicus); Asiatic ox (subgenus Bibos); Tibetan yak (Poephagus grunniens). Animals of the genus listed, that are produce calves for meat or to provide draft power."
+GE,Emissions: Enteric Fermentation,1016,Goats,"Capra spp.. See 866. Includes Hircus, Ibex, Nubiana, Pyrenaica, Tibetana, Kashmir and Angora."
+GE,Emissions: Enteric Fermentation,1096,Horses,Equus caballus. See 866.
+GE,Emissions: Enteric Fermentation,1177,Llamas,See Other camelids.
+GE,Emissions: Enteric Fermentation,1110,Mules,Includes hinnies. Mules are offspring of a male ass and a female horse (mare); a hinny is the offspring of a female ass and a male horse (stallion). Both are sterile. See 866.
+GE,Emissions: Enteric Fermentation,1759,Mules and Asses,
+GE,Emissions: Enteric Fermentation,976,Sheep,"Ovis spp.. See 866. Includes Uriel, Argali, Bighorn, Karakul and Astrakhan."
+GE,Emissions: Enteric Fermentation,1749,Sheep and Goats,
+GE,Emissions: Enteric Fermentation,1048,Swine,
+GE,Emissions: Enteric Fermentation,1051,"Swine, breeding",
+GE,Emissions: Enteric Fermentation,1049,"Swine, market",
+GI,Emissions: Fires,6793,Closed and open shrubland,
+GI,Emissions: Fires,6791,Closed shrubland,
+GI,Emissions: Fires,6993,Fires in organic soils,
+GI,Emissions: Fires,6992,Forest fires,
+GI,Emissions: Fires,6794,Grassland,
+GI,Emissions: Fires,6796,Humid tropical forest,
+GI,Emissions: Fires,6792,Open shrubland,
+GI,Emissions: Fires,6797,Other forest,
+GI,Emissions: Fires,6760,Savanna,"A lowland, tropical or subtropical vegetation formation, characterized by a continuous grassland cover occasionally interrupted by trees and shrubs."
+GI,Emissions: Fires,6790,Savanna and woody savanna,
+GI,Emissions: Fires,6795,Savanna fires,
+GI,Emissions: Fires,6789,Woody savanna,
+GF,Emissions: Forests,6749,Carbon stock change in forests,
+GF,Emissions: Forests,6751,Forestland,
+GF,Emissions: Forests,6750,Net Forest conversion,"The net forest conversion is calculated as the difference of forest area for two consecutive years, consistently with IPCC approach 1. The term “net” indicates that no further specification on the underlying dynamics of the computed land area change is possible. Greenhouse gas emissions consist of the net contribution of CO2 sources and sinks due to deforestation, reforestation and afforestation activities within countries."
+GU,Emissions: Manure applied to Soils,1755,All Animals,
+GU,Emissions: Manure applied to Soils,1107,Asses,Equus asinus. See 866.
+GU,Emissions: Manure applied to Soils,946,Buffaloes,"Indian, Asiatic, pigmy, water buffalo (Bubalus bubalus; B. arnee; B. depressicornis); African buffalo (genus Syncerus); American bison (Bison bison); European bison (Bison bonasus); beeffalo (cross between a bison and a domesticated beef animal). See 866. Excludes wild bisons and buffaloes."
+GU,Emissions: Manure applied to Soils,1126,Camels,Bactrian camel (Camelus bactrianus); Arabian camel (C. dromedarius). See 866.
+GU,Emissions: Manure applied to Soils,1760,Camels and Llamas,
+GU,Emissions: Manure applied to Soils,1757,Cattle,
+GU,Emissions: Manure applied to Soils,960,"Cattle, dairy","Common ox (Bos taurus); zebu, humped ox (Bos indicus); Asiatic ox (subgenus Bibos); Tibetan yak (Poephagus grunniens). Animals of the genus listed, that are producing milk in commercial quantities for human consumption."
+GU,Emissions: Manure applied to Soils,961,"Cattle, non-dairy","Common ox (Bos taurus); zebu, humped ox (Bos indicus); Asiatic ox (subgenus Bibos); Tibetan yak (Poephagus grunniens). Animals of the genus listed, that are produce calves for meat or to provide draft power."
+GU,Emissions: Manure applied to Soils,1054,Chickens,
+GU,Emissions: Manure applied to Soils,1053,"Chickens, broilers",
+GU,Emissions: Manure applied to Soils,1052,"Chickens, layers",
+GU,Emissions: Manure applied to Soils,1068,Ducks,Anas spp.. See 1057.
+GU,Emissions: Manure applied to Soils,1016,Goats,"Capra spp.. See 866. Includes Hircus, Ibex, Nubiana, Pyrenaica, Tibetana, Kashmir and Angora."
+GU,Emissions: Manure applied to Soils,1096,Horses,Equus caballus. See 866.
+GU,Emissions: Manure applied to Soils,1177,Llamas,See Other camelids.
+GU,Emissions: Manure applied to Soils,1110,Mules,Includes hinnies. Mules are offspring of a male ass and a female horse (mare); a hinny is the offspring of a female ass and a male horse (stallion). Both are sterile. See 866.
+GU,Emissions: Manure applied to Soils,1759,Mules and Asses,
+GU,Emissions: Manure applied to Soils,2029,Poultry Birds,
+GU,Emissions: Manure applied to Soils,976,Sheep,"Ovis spp.. See 866. Includes Uriel, Argali, Bighorn, Karakul and Astrakhan."
+GU,Emissions: Manure applied to Soils,1749,Sheep and Goats,
+GU,Emissions: Manure applied to Soils,1048,Swine,
+GU,Emissions: Manure applied to Soils,1051,"Swine, breeding",
+GU,Emissions: Manure applied to Soils,1049,"Swine, market",
+GU,Emissions: Manure applied to Soils,1079,Turkeys,Meleagris gallopavo. See 1057.
+GP,Emissions: Manure left on Pasture,1755,All Animals,
+GP,Emissions: Manure left on Pasture,1107,Asses,Equus asinus. See 866.
+GP,Emissions: Manure left on Pasture,946,Buffaloes,"Indian, Asiatic, pigmy, water buffalo (Bubalus bubalus; B. arnee; B. depressicornis); African buffalo (genus Syncerus); American bison (Bison bison); European bison (Bison bonasus); beeffalo (cross between a bison and a domesticated beef animal). See 866. Excludes wild bisons and buffaloes."
+GP,Emissions: Manure left on Pasture,1126,Camels,Bactrian camel (Camelus bactrianus); Arabian camel (C. dromedarius). See 866.
+GP,Emissions: Manure left on Pasture,1760,Camels and Llamas,
+GP,Emissions: Manure left on Pasture,1757,Cattle,
+GP,Emissions: Manure left on Pasture,960,"Cattle, dairy","Common ox (Bos taurus); zebu, humped ox (Bos indicus); Asiatic ox (subgenus Bibos); Tibetan yak (Poephagus grunniens). Animals of the genus listed, that are producing milk in commercial quantities for human consumption."
+GP,Emissions: Manure left on Pasture,961,"Cattle, non-dairy","Common ox (Bos taurus); zebu, humped ox (Bos indicus); Asiatic ox (subgenus Bibos); Tibetan yak (Poephagus grunniens). Animals of the genus listed, that are produce calves for meat or to provide draft power."
+GP,Emissions: Manure left on Pasture,1054,Chickens,
+GP,Emissions: Manure left on Pasture,1053,"Chickens, broilers",
+GP,Emissions: Manure left on Pasture,1052,"Chickens, layers",
+GP,Emissions: Manure left on Pasture,1068,Ducks,Anas spp.. See 1057.
+GP,Emissions: Manure left on Pasture,1016,Goats,"Capra spp.. See 866. Includes Hircus, Ibex, Nubiana, Pyrenaica, Tibetana, Kashmir and Angora."
+GP,Emissions: Manure left on Pasture,1096,Horses,Equus caballus. See 866.
+GP,Emissions: Manure left on Pasture,1177,Llamas,See Other camelids.
+GP,Emissions: Manure left on Pasture,1110,Mules,Includes hinnies. Mules are offspring of a male ass and a female horse (mare); a hinny is the offspring of a female ass and a male horse (stallion). Both are sterile. See 866.
+GP,Emissions: Manure left on Pasture,1759,Mules and Asses,
+GP,Emissions: Manure left on Pasture,2029,Poultry Birds,
+GP,Emissions: Manure left on Pasture,976,Sheep,"Ovis spp.. See 866. Includes Uriel, Argali, Bighorn, Karakul and Astrakhan."
+GP,Emissions: Manure left on Pasture,1749,Sheep and Goats,
+GP,Emissions: Manure left on Pasture,1048,Swine,
+GP,Emissions: Manure left on Pasture,1051,"Swine, breeding",
+GP,Emissions: Manure left on Pasture,1049,"Swine, market",
+GP,Emissions: Manure left on Pasture,1079,Turkeys,Meleagris gallopavo. See 1057.
+GM,Emissions: Manure Management,1755,All Animals,
+GM,Emissions: Manure Management,1107,Asses,Equus asinus. See 866.
+GM,Emissions: Manure Management,946,Buffaloes,"Indian, Asiatic, pigmy, water buffalo (Bubalus bubalus; B. arnee; B. depressicornis); African buffalo (genus Syncerus); American bison (Bison bison); European bison (Bison bonasus); beeffalo (cross between a bison and a domesticated beef animal). See 866. Excludes wild bisons and buffaloes."
+GM,Emissions: Manure Management,1126,Camels,Bactrian camel (Camelus bactrianus); Arabian camel (C. dromedarius). See 866.
+GM,Emissions: Manure Management,1760,Camels and Llamas,
+GM,Emissions: Manure Management,1757,Cattle,
+GM,Emissions: Manure Management,960,"Cattle, dairy","Common ox (Bos taurus); zebu, humped ox (Bos indicus); Asiatic ox (subgenus Bibos); Tibetan yak (Poephagus grunniens). Animals of the genus listed, that are producing milk in commercial quantities for human consumption."
+GM,Emissions: Manure Management,961,"Cattle, non-dairy","Common ox (Bos taurus); zebu, humped ox (Bos indicus); Asiatic ox (subgenus Bibos); Tibetan yak (Poephagus grunniens). Animals of the genus listed, that are produce calves for meat or to provide draft power."
+GM,Emissions: Manure Management,1054,Chickens,
+GM,Emissions: Manure Management,1053,"Chickens, broilers",
+GM,Emissions: Manure Management,1052,"Chickens, layers",
+GM,Emissions: Manure Management,1068,Ducks,Anas spp.. See 1057.
+GM,Emissions: Manure Management,1016,Goats,"Capra spp.. See 866. Includes Hircus, Ibex, Nubiana, Pyrenaica, Tibetana, Kashmir and Angora."
+GM,Emissions: Manure Management,1096,Horses,Equus caballus. See 866.
+GM,Emissions: Manure Management,1177,Llamas,See Other camelids.
+GM,Emissions: Manure Management,1110,Mules,Includes hinnies. Mules are offspring of a male ass and a female horse (mare); a hinny is the offspring of a female ass and a male horse (stallion). Both are sterile. See 866.
+GM,Emissions: Manure Management,1759,Mules and Asses,
+GM,Emissions: Manure Management,2029,Poultry Birds,
+GM,Emissions: Manure Management,976,Sheep,"Ovis spp.. See 866. Includes Uriel, Argali, Bighorn, Karakul and Astrakhan."
+GM,Emissions: Manure Management,1749,Sheep and Goats,
+GM,Emissions: Manure Management,1048,Swine,
+GM,Emissions: Manure Management,1051,"Swine, breeding",
+GM,Emissions: Manure Management,1049,"Swine, market",
+GM,Emissions: Manure Management,1079,Turkeys,Meleagris gallopavo. See 1057.
+GR,Emissions: Rice Cultivation,27,"Rice, paddy","Oryza spp., mainly oryza sativa. Rice grain after threshing and winnowing. Also known as rice in the husk and rough rice. Used mainly for human food."
+GY,Emissions: Synthetic Fertilizers,3102,Nutrient nitrogen N (total),Total nitrogen (N) from all fertilizer products
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2666,Abaca,Default composition: 809 Manila fibre (abaca)
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2659,"Alcohol, Non-Food",Default composition: 632 Alcohol non food
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2924,Alcoholic Beverages,
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2617,Apples and products,"Default composition: 515 Apples, 518 Juice, apple, single strength, 519 Juice, apple, concentrated"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2615,Bananas,Default composition: 486 Bananas
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2513,Barley and products,"Default composition: 44 Barley, 45 Barley, pot, 46 Barley, pearled, 47 Bran, barley, 48 Flour, barley and grits, 49 Malt, 50 Malt extract"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2546,Beans,"Default composition: 176 Beans, dry"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2656,Beer,Default composition: 51 Beer of barley
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2658,"Beverages, Alcoholic","Default composition: 634 Beverages, distilled alcoholic"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2657,"Beverages, Fermented","Default composition: 26 Beverages, fermented wheat, 39 Beverages, fermented rice, 66 Beer of maize, 82 Beer of millet, 86 Beer of sorghum, 517 Cider etc"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2600,Brans,"Default composition: 17 Bran, wheat, 35 Bran, rice, 47 Bran, barley, 59 Bran, maize, 73 Bran, rye, 77 Bran, oats, 81 Bran, millet, 85 Bran, sorghum, 91 Bran, buckwheat, 96 Bran, fonio, 99 Bran, triticale, 105 Bran, mixed grains, 112 Bran, cereals nes, 213 Bran, pulses"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2532,Cassava and products,"Default composition: 125 Cassava, 126 Flour, cassava, 127 Tapioca, cassava, 128 Cassava dried, 129 Starch, cassava"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2905,Cereals - Excluding Beer,
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2520,"Cereals, Other","Default composition: 68 Popcorn, 89 Buckwheat, 90 Flour, buckwheat, 91 Bran, buckwheat, 92 Quinoa, 94 Fonio, 95 Flour, fonio, 96 Bran, fonio, 97 Triticale, 98 Flour, triticale, 99 Bran, triticale, 101 Canary seed, 103 Grain, mixed, 104 Flour, mixed grain, 105 Bran, mixed grains, 108 Cereals, nes, 111 Flour, cereals, 112 Bran, cereals nes, 113 Cereal preparations, nes"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2614,"Citrus, Other","Default composition: 512 Fruit, citrus nes, 513 Juice, citrus, single strength, 514 Juice, citrus, concentrated"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2642,Cloves,Default composition: 698 Cloves
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2633,Cocoa Beans and products,"Default composition: 661 Cocoa, beans, 662 Cocoa, paste, 665 Cocoa, powder & cake, 666 Chocolate products nes"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2578,Coconut Oil,"Default composition: 252 Oil, coconut (copra)"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2560,Coconuts - Incl Copra,"Default composition: 249 Coconuts, 250 Coconuts, desiccated, 251 Copra"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2630,Coffee and products,"Default composition: 656 Coffee, green, 657 Coffee, roasted, 659 Coffee, extracts"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2596,Copra Cake,"Default composition: 253 Cake, copra"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2661,Cotton lint,Default composition: 767 Cotton lint
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2559,Cottonseed,Default composition: 329 Cottonseed
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2594,Cottonseed Cake,"Default composition: 332 Cake, cottonseed"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2575,Cottonseed Oil,"Default composition: 331 Oil, cottonseed"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2619,Dates,Default composition: 577 Dates
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2919,Fruits - Excluding Wine,
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2625,"Fruits, Other","Default composition: 521 Pears, 523 Quinces, 526 Apricots, 527 Apricots, dry, 530 Cherries, sour, 531 Cherries, 534 Peaches and nectarines, 536 Plums and sloes, 537 Plums dried (prunes), 538 Juice, plum, single strength, 539 Juice, plum, concentrated, 541 Fruit, stone nes, 542 Fruit, pome nes, 544 Strawberries, 547 Raspberries, 549 Gooseberries, 550 Currants, 552 Blueberries, 554 Cranberries, 558 Berries nes, 567 Watermelons, 568 Melons, other (inc.cantaloupes), 569 Figs, 570 Figs dried, 571 Mangoes, mangosteens, guavas, 572 Avocados, 583 Juice, mango, 587 Persimmons, 591 Cashewapple, 592 Kiwi fruit, 600 Papayas, 603 Fruit, tropical fresh nes, 604 Fruit, tropical dried nes, 619 Fruit, fresh nes, 620 Fruit, dried nes, 622 Juice, fruit nes, 623 Fruit, prepared nes, 624 Flour, fruit, 625 Fruits, nuts, peel, sugar preserved, 626 Fruit, cooked, homogenized preparations"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2613,Grapefruit and products,"Default composition: 507 Grapefruit (inc. pomelos), 509 Juice, grapefruit, 510 Juice, grapefruit, concentrated"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2620,Grapes and products (excl wine),"Default composition: 560 Grapes, 561 Raisins, 562 Juice, grape, 563 Grapes, must"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2591,Groundnut Cake,"Default composition: 245 Cake, groundnuts"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2572,Groundnut Oil,"Default composition: 244 Oil, groundnut"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2820,Groundnuts (in Shell Eq),"Default composition: 242 Groundnuts, with shell"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2556,Groundnuts (Shelled Eq),"Default composition: 242 Groundnuts, with shell, 243 Groundnuts, shelled, 246 Groundnuts, prepared, 247 Peanut butter"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2667,"Hard Fibres, Other","Default composition: 800 Agave fibres nes, 813 Coir, 821 Fibre crops nes"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2680,Infant food,Default composition: 109 Infant food
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2662,Jute,Default composition: 780 Jute
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2663,Jute-Like Fibres,"Default composition: 782 Bastfibres, other"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2612,"Lemons, Limes and products","Default composition: 497 Lemons and limes, 498 Juice, lemon, single strength, 499 Juice, lemon, concentrated"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2514,Maize and products,"Default composition: 56 Maize, 57 Germ, maize, 58 Flour, maize, 59 Bran, maize, 63 Gluten, maize, 64 Starch, maize, 846 Feed and meal, gluten"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2582,Maize Germ Oil,"Default composition: 60 Oil, maize"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2517,Millet and products,"Default composition: 79 Millet, 80 Flour, millet, 81 Bran, millet"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2899,Miscellaneous,
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2928,Miscellaneous,
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2544,Molasses,Default composition: 165 Molasses
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2551,Nuts and products,"Default composition: 216 Brazil nuts, with shell, 217 Cashew nuts, with shell, 220 Chestnut, 221 Almonds, with shell, 222 Walnuts, with shell, 223 Pistachios, 224 Kola nuts, 225 Hazelnuts, with shell, 226 Areca nuts, 229 Brazil nuts, shelled, 230 Cashew nuts, shelled, 231 Almonds shelled, 232 Walnuts, shelled, 233 Hazelnuts, shelled, 234 Nuts, nes, 235 Nuts, prepared (exc. groundnuts)"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2516,Oats,"Default composition: 75 Oats, 76 Oats rolled, 77 Bran, oats"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2913,Oilcrops,
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2586,"Oilcrops Oil, Other","Default composition: 264 Butter of karite nuts, 266 Oil, castor beans, 276 Oil, tung nuts, 278 Oil, jojoba, 281 Oil, safflower, 297 Oil, poppy, 306 Vegetable tallow, 307 Oil, stillingia, 313 Oil, kapok, 334 Oil, linseed, 337 Oil, hempseed, 340 Oil, vegetable origin nes, 664 Cocoa, butter, 1241 Margarine, liquid, 1242 Margarine, short, 1273 Castor oil, hydrogenated (opal wax), 1274 Oil, boiled etc, 1275 Oil, hydrogenated"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2570,"Oilcrops, Other","Default composition: 263 Karite nuts (sheanuts), 265 Castor oil seed, 275 Tung nuts, 277 Jojoba seed, 280 Safflower seed, 296 Poppy seed, 299 Melonseed, 305 Tallowtree seed, 310 Kapok fruit, 311 Kapokseed in shell, 312 Kapokseed shelled, 333 Linseed, 336 Hempseed, 339 Oilseeds nes, 343 Flour, oilseeds"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2598,"Oilseed Cakes, Other","Default composition: 37 Cake, rice bran, 61 Cake, maize, 282 Cake, safflower, 298 Cake, poppy seed, 314 Cake, kapok, 335 Cake, linseed, 338 Cake, hempseed, 341 Cake, oilseeds nes"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2580,Olive Oil,"Default composition: 261 Oil, olive, virgin, 274 Oil, olive residues"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2563,Olives (including preserved),"Default composition: 260 Olives, 262 Olives preserved"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2602,Onions,"Default composition: 403 Onions, dry"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2611,"Oranges, Mandarines","Default composition: 490 Oranges, 491 Juice, orange, single strength, 492 Juice, orange, concentrated, 495 Tangerines, mandarins, clementines, satsumas, 496 Juice, tangerine"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2562,Palm kernels,"Default composition: 254 Oil, palm fruit, 256 Palm kernels"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2577,Palm Oil,"Default composition: 257 Oil, palm, 1276 Fatty acids, 1277 Fatty substance residues"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2595,Palmkernel Cake,"Default composition: 259 Cake, palm kernel"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2576,Palmkernel Oil,"Default composition: 258 Oil, palm kernel"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2547,Peas,"Default composition: 187 Peas, dry"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2640,Pepper,Default composition: 687 Pepper (piper spp.)
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2641,Pimento,"Default composition: 689 Chillies and peppers, dry"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2618,Pineapples and products,"Default composition: 574 Pineapples, 575 Pineapples canned, 576 Juice, pineapple, 580 Juice, pineapple, concentrated"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2616,Plantains,Default composition: 489 Plantains
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2531,Potatoes and products,"Default composition: 116 Potatoes, 117 Flour, potatoes, 118 Potatoes, frozen, 119 Starch, potatoes, 121 Tapioca, potatoes"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2911,Pulses,
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2549,"Pulses, Other and products","Default composition: 181 Broad beans, horse beans, dry, 191 Chick peas, 195 Cow peas, dry, 197 Pigeon peas, 201 Lentils, 203 Bambara beans, 205 Vetches, 210 Lupins, 211 Pulses, nes, 212 Flour, pulses, 213 Bran, pulses"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2593,Rape and Mustard Cake,"Default composition: 272 Cake, rapeseed, 294 Cake, mustard"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2574,Rape and Mustard Oil,"Default composition: 271 Oil, rapeseed, 293 Oil, mustard"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2558,Rape and Mustardseed,"Default composition: 270 Rapeseed, 292 Mustard seed, 295 Flour, mustard"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2804,Rice (Paddy Equivalent),"Default composition: 27 Rice, paddy, 33 Gluten, rice, 35 Bran, rice"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2805,Rice and products,"Default composition: 27 Rice, paddy, 28 Rice, husked, 29 Rice, milled/husked, 31 Rice, milled, 32 Rice, broken, 33 Gluten, rice, 34 Starch, rice, 35 Bran, rice, 38 Flour, rice"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2581,Ricebran Oil,"Default composition: 36 Oil, rice bran"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2815,Roots & Tuber Dry Equiv,
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2534,"Roots, Other","Default composition: 135 Yautia (cocoyam), 136 Taro (cocoyam), 149 Roots and tubers, nes, 150 Flour, roots and tubers nes, 151 Roots and tubers dried"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2672,Rubber,"Default composition: 836 Rubber, natural, 837 Rubber natural dry"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2515,Rye and products,"Default composition: 71 Rye, 72 Flour, rye, 73 Bran, rye"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2561,Sesame seed,Default composition: 289 Sesame seed
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2597,Sesameseed Cake,"Default composition: 291 Cake, sesame seed"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2579,Sesameseed Oil,"Default composition: 290 Oil, sesame"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2665,Sisal,Default composition: 789 Sisal
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2664,"Soft-Fibres, Other","Default composition: 771 Flax fibre raw, 773 Flax fibre and tow, 774 Flax tow waste, 777 Hemp tow waste, 778 Kapok fibre, 788 Ramie"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2518,Sorghum and products,"Default composition: 83 Sorghum, 84 Flour, sorghum, 85 Bran, sorghum"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2590,Soyabean Cake,"Default composition: 238 Cake, soybeans"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2571,Soyabean Oil,"Default composition: 237 Oil, soybean"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2555,Soyabeans,"Default composition: 236 Soybeans, 239 Soya sauce, 240 Soya paste, 241 Soya curd"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2923,Spices,
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2645,"Spices, Other","Default composition: 692 Vanilla, 693 Cinnamon (canella), 702 Nutmeg, mace and cardamoms, 711 Anise, badian, fennel, coriander, 720 Ginger, 723 Spices, nes"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2907,Starchy Roots,
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2922,Stimulants,
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2909,Sugar & Sweeteners,
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2542,Sugar (Raw Equivalent),"Default composition: 158 Sugar, cane, raw, centrifugal, 159 Sugar, beet, raw, centrifugal, 162 Sugar Raw Centrifugal, 164 Sugar refined, 168 Sugar confectionery, 171 Sugar flavoured"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2537,Sugar beet,Default composition: 157 Sugar beet
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2536,Sugar cane,Default composition: 156 Sugar cane
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2908,Sugar Crops,
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2541,Sugar non-centrifugal,Default composition: 163 Sugar non-centrifugal
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2827,"Sugar, Raw Equivalent","Default composition: 154 Fructose chemically pure, 155 Maltose chemically pure, 160 Maple sugar and syrups, 161 Sugar crops, nes, 162 Sugar Raw Centrifugal, 163 Sugar non-centrifugal, 166 Fructose and syrup, other, 167 Sugar, nes, 172 Glucose and dextrose, 173 Lactose"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2818,"Sugar, Refined Equiv",Default composition: 162 Sugar Raw Centrifugal
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2557,Sunflower seed,Default composition: 267 Sunflower seed
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2592,Sunflowerseed Cake,"Default composition: 269 Cake, sunflower"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2573,Sunflowerseed Oil,"Default composition: 268 Oil, sunflower"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2533,Sweet potatoes,Default composition: 122 Sweet potatoes
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2543,"Sweeteners, Other","Default composition: 154 Fructose chemically pure, 155 Maltose chemically pure, 160 Maple sugar and syrups, 161 Sugar crops, nes, 165 Molasses, 166 Fructose and syrup, other, 167 Sugar, nes, 172 Glucose and dextrose, 173 Lactose, 175 Isoglucose, 633 Beverages, non alcoholic"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2635,Tea (including mate),"Default composition: 667 Tea, 671 Maté, 672 Tea, mate extracts"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2671,Tobacco,"Default composition: 826 Tobacco, unmanufactured, 828 Cigarettes, 829 Cigars, cheroots, 831 Tobacco products nes"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2927,Tobacco & Rubber,
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2601,Tomatoes and products,"Default composition: 388 Tomatoes, 389 Juice, tomato, concentrated, 390 Juice, tomato, 391 Tomatoes, paste, 392 Tomatoes, peeled"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2912,Treenuts,
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2914,Vegetable Oils,
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2918,Vegetables,
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2605,"Vegetables, Other","Default composition: 358 Cabbages and other brassicas, 366 Artichokes, 367 Asparagus, 372 Lettuce and chicory, 373 Spinach, 378 Cassava leaves, 393 Cauliflowers and broccoli, 394 Pumpkins, squash and gourds, 397 Cucumbers and gherkins, 399 Eggplants (aubergines), 401 Chillies and peppers, green, 402 Onions, shallots, green, 406 Garlic, 407 Leeks, other alliaceous vegetables, 414 Beans, green, 417 Peas, green, 420 Vegetables, leguminous nes, 423 String beans, 426 Carrots and turnips, 430 Okra, 446 Maize, green, 447 Sweet corn frozen, 448 Sweet corn prep or preserved, 449 Mushrooms and truffles, 450 Mushrooms, dried, 451 Mushrooms, canned, 459 Chicory roots, 461 Carobs, 463 Vegetables, fresh nes, 464 Vegetables, dried nes, 465 Vegetables, canned nes, 466 Juice, vegetables nes, 469 Vegetables, dehydrated, 471 Vegetables in vinegar, 472 Vegetables, preserved nes, 473 Vegetables, frozen, 474 Vegetables, temporarily preserved, 475 Vegetables, preserved, frozen, 476 Vegetables, homogenized preparations, 567 Watermelons, 568 Melons, other (inc.cantaloupes), 658 Coffee, substitutes containing coffee"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2511,Wheat and products,"Default composition: 15 Wheat, 16 Flour, wheat, 17 Bran, wheat, 18 Macaroni, 19 Germ, wheat, 20 Bread, 21 Bulgur, 22 Pastry, 23 Starch, wheat, 24 Gluten, wheat, 41 Cereals, breakfast, 110 Wafers, 114 Mixes and doughs, 115 Food preparations, flour, malt extract"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2655,Wine,"Default composition: 564 Wine, 565 Vermouths & similar"
+BC,Food Balance: Commodity Balances - Crops Primary Equivalent,2535,Yams,Default composition: 137 Yams
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2946,Animal fats,
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2769,"Aquatic Animals, Others","Default composition: 1587 Aqutc Anim F, 1588 Aq A Cured, 1589 Aquatic Animals Meals, 1590 Aq A Prep Ns"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2775,Aquatic Plants,"Default composition: 1594 Aquatic plants, fresh, 1595 Aquatic plants, dried, 1596 Aquatic plants, other preparations"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2961,"Aquatic Products, Other",
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2731,Bovine Meat,"Default composition: 867 Meat, cattle, 870 Meat, cattle, boneless (beef & veal), 872 Meat, beef, dried, salted, smoked, 873 Meat, extracts, 874 Meat, beef and veal sausages, 875 Meat, beef, preparations, 876 Meat, beef, canned, 877 Meat, homogenized preparations, 947 Meat, buffalo"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2740,"Butter, Ghee","Default composition: 886 Butter, cow milk, 887 Ghee, butteroil of cow milk, 952 Butter, buffalo milk, 953 Ghee, of buffalo milk, 983 Butter and ghee, sheep milk, 1022 Butter of goat mlk"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2766,Cephalopods,"Default composition: 1570 Cephlp Fresh, 1571 Cphlp Frozen, 1572 Cphlp Cured, 1573 Cphlp Canned, 1574 Cphlp Pr nes, 1575 Cphlp Meals"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2741,Cheese,
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2743,Cream,Default composition: 885 Cream fresh
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2765,Crustaceans,"Default composition: 1553 Crstaceans F, 1554 Crstc Frozen, 1555 Crstc Cured, 1556 Crstc Canned, 1557 Crstc Pr nes, 1558 Crstc Meals"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2762,Demersal Fish,"Default composition: 1514 Dmrsl Fresh, 1515 Dmrsl Fz Whl, 1516 Dmrsl Fillet, 1517 Dmrsl Fz Flt, 1518 Dmrsl Cured, 1519 Dmrsl Canned, 1520 Dmrsl Pr nes, 1521 Dmrsl Meals"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2744,Eggs,"Default composition: 916 Egg albumine, 1062 Eggs, hen, in shell, 1063 Eggs, liquid, 1064 Eggs, dried, 1091 Eggs, other bird, in shell"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2949,Eggs,
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2737,"Fats, Animals, Raw","Default composition: 869 Fat, cattle, 871 Fat, cattle butcher, 949 Fat, buffaloes, 979 Fat, sheep, 994 Grease incl. lanolin wool, 1019 Fat, goats, 1037 Fat, pigs, 1040 Fat, pig butcher, 1043 Lard, 1065 Fat, poultry, 1066 Fat, poultry, rendered, 1129 Fat, camels, 1160 Fat, other camelids, 1168 Oils, fats of animal nes, 1221 Lard stearine oil, 1222 Degras, 1225 Tallow, 1243 Fat, nes, prepared"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2855,Fish Meal,"Default composition: 1511 Freshwater Meal Fr Offal, 1524 Demersal Meal from Offal, 1537 Pelagic Meal from Offal, 1550 Marn Meal Of, 1559 Crustaceans Meal F Offal, 1567 Molluscs Meal from Offal, 1576 Cephalopods Meal F Offal, 1581 Aquatic Mammals Meals, 1584 Aqua Mammal Meal F Offal, 1591 Aq A Meal Of"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2781,"Fish, Body Oil","Default composition: 1509 Frwt Bdy Oil, 1522 Dmrs Bdy Oil, 1535 Pelg Bdy Oil, 1548 Marn Bdy Oil, 1582 Aq M Oils"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2782,"Fish, Liver Oil","Default composition: 1510 Frwt Lvr Oil, 1523 Demersal Liver Oils, 1536 Pelg Lvr Oil, 1549 Marine nes Liver Oils"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2960,"Fish, Seafood",
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2761,Freshwater Fish,"Default composition: 1501 Frwtr Diad F, 1502 Frwtr Fz Whl, 1503 Frwtr Fillet, 1504 Frwtr Fz Flt, 1505 Frwtr Cured, 1506 Frwtr Canned, 1507 Frwtr Pr nes, 1508 Frwtr Meals"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2748,Hides and skins,"Default composition: 919 Hides, cattle, fresh, 920 Hides, cattle, wet salted, 921 Hides, cattle, dry salted, 922 Hides, cattle, nes, 928 Skins, calve, wet salted, 929 Skins, calve, dry salted, 930 Skins, calve, nes, 957 Hides, buffalo, fresh, 958 Hides, buffalo, wet salted, 959 Hides, buffalo, dry salted, 995 Skins, sheep, fresh, 996 Skins, sheep, wet salted, 997 Skins, sheep, dry salted, 998 Skins, sheep, nes, 999 Skins, sheep, with wool, 1002 Skins, karakul, 1025 Skins, goat, fresh, 1026 Skins, goat, wet salted, 1027 Skins, goat, dry salted, 1028 Skins, goat, nes, 1044 Skins, pig, fresh, 1045 Skins, pig, wet salted, 1046 Skins, pig, dry salted, 1047 Skins, pig, nes, 1102 Hides, horse, fresh, 1103 Hides, horse, wet salted, 1104 Hides, horse, dry salted, 1105 Hides, horse, nes, 1109 Hides, ass, fresh, 1112 Hides, mule, fresh, 1133 Hides, camel, fresh, 1134 Hides, camel, wet salted, 1135 Hides, camel, dry salted, 1136 Hides, camel, nes, 1146 Skins, rabbit, 1195 Skins, furs, 1213 Hides and skins nes, fresh, 1214 Hides, wet salted, nes, 1215 Hides, nes, dry salted"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2745,Honey,"Default composition: 1182 Honey, natural"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2764,"Marine Fish, Other","Default composition: 1540 Marine nes F, 1541 Marin Fz Whl, 1542 Marin Fillet, 1543 Marin Fz Flt, 1544 Marin Cured, 1545 Marin Canned, 1546 Marin Pr nes, 1547 Marin Meals"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2943,Meat,
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2749,Meat Meal,"Default composition: 1173 Meal, meat, 1175 Meal, blood"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2768,"Meat, Aquatic Mammals","Default composition: 1580 Aq M Meat, 1583 Aq M Prep Ns"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2735,"Meat, Other","Default composition: 1089 Meat, bird nes, 1097 Meat, horse, 1108 Meat, ass, 1111 Meat, mule, 1127 Meat, camel, 1141 Meat, rabbit, 1151 Meat, other rodents, 1158 Meat, other camelids, 1163 Meat, game, 1164 Meat, dried nes, 1166 Meat, nes, 1172 Meat, nes, preparations, 1176 Snails, not sea"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2848,Milk - Excluding Butter,"Default composition: 882 Milk, whole fresh cow, 888 Milk, skimmed cow, 889 Milk, whole condensed, 890 Whey, condensed, 891 Yoghurt, 892 Yoghurt, concentrated or not, 893 Buttermilk, curdled, acidified milk, 894 Milk, whole evaporated, 895 Milk, skimmed evaporated, 896 Milk, skimmed condensed, 897 Milk, whole dried, 898 Milk, skimmed dried, 899 Milk, dry buttermilk, 900 Whey, dry, 901 Cheese, whole cow milk, 903 Whey, fresh, 904 Cheese, skimmed cow milk, 905 Whey, cheese, 907 Cheese, processed, 908 Milk, reconstituted, 909 Milk, products of natural constituents nes, 910 Ice cream and edible ice, 917 Casein, 951 Milk, whole fresh buffalo, 954 Milk, skimmed buffalo, 955 Cheese, buffalo milk, 982 Milk, whole fresh sheep, 984 Cheese, sheep milk, 985 Milk, skimmed sheep, 1020 Milk, whole fresh goat, 1021 Cheese of goat mlk, 1023 Milk, skimmed goat, 1130 Milk, whole fresh camel"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2948,Milk - Excluding Butter,
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2739,"Milk, Skimmed",
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2738,"Milk, Whole",
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2767,"Molluscs, Other","Default composition: 1562 Mlluscs Frsh, 1563 Molsc Frozen, 1564 Molsc Cured, 1565 Molsc Canned, 1566 Molsc Meals"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2732,Mutton & Goat Meat,"Default composition: 977 Meat, sheep, 1017 Meat, goat"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2945,Offals,
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2736,"Offals, Edible","Default composition: 868 Offals, edible, cattle, 878 Liver prep., 948 Offals, edible, buffaloes, 978 Offals, sheep,edible, 1018 Offals, edible, goats, 1036 Offals, pigs, edible, 1059 Offals, liver chicken, 1074 Offals, liver geese, 1075 Offals, liver duck, 1081 Offals, liver turkeys, 1098 Offals, horses, 1128 Offals, edible, camels, 1159 Offals, other camelids, 1167 Offals, nes"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2763,Pelagic Fish,"Default composition: 1527 Pelagic Frsh, 1528 Pelgc Fz Whl, 1529 Pelgc Fillet, 1530 Pelgc Fz Flt, 1531 Pelgc Cured, 1532 Pelgc Canned, 1533 Pelgc Pr nes, 1534 Pelgc Meals"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2733,Pigmeat,"Default composition: 1035 Meat, pig, 1038 Meat, pork, 1039 Bacon and ham, 1041 Meat, pig sausages, 1042 Meat, pig, preparations"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2734,Poultry Meat,"Default composition: 1058 Meat, chicken, 1060 Fat, liver prepared (foie gras), 1061 Meat, chicken, canned, 1069 Meat, duck, 1073 Meat, goose and guinea fowl, 1080 Meat, turkey"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2747,Silk,"Default composition: 1185 Silk-worm cocoons, reelable, 1186 Silk raw, 1187 Cocoons, unreelable & waste"
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2742,Whey,
+BL,Food Balance: Commodity Balances - Livestock and Fish Primary Equivalent,2746,Wool (Clean Eq.),"Default composition: 987 Wool, greasy, 988 Wool, degreased"
+FBSH,Food Balance: Food Balances (old methodology and population),2659,"Alcohol, Non-Food",Default composition: 632 Alcohol non food
+FBSH,Food Balance: Food Balances (old methodology and population),2924,Alcoholic Beverages,
+FBSH,Food Balance: Food Balances (old methodology and population),2946,Animal fats,
+FBSH,Food Balance: Food Balances (old methodology and population),2941,Animal Products,
+FBSH,Food Balance: Food Balances (old methodology and population),2617,Apples and products,"Default composition: 515 Apples, 518 Juice, apple, single strength, 519 Juice, apple, concentrated"
+FBSH,Food Balance: Food Balances (old methodology and population),2769,"Aquatic Animals, Others","Default composition: 1587 Aqutc Anim F, 1588 Aq A Cured, 1589 Aquatic Animals Meals, 1590 Aq A Prep Ns"
+FBSH,Food Balance: Food Balances (old methodology and population),2775,Aquatic Plants,"Default composition: 1594 Aquatic plants, fresh, 1595 Aquatic plants, dried, 1596 Aquatic plants, other preparations"
+FBSH,Food Balance: Food Balances (old methodology and population),2961,"Aquatic Products, Other",
+FBSH,Food Balance: Food Balances (old methodology and population),2615,Bananas,Default composition: 486 Bananas
+FBSH,Food Balance: Food Balances (old methodology and population),2513,Barley and products,"Default composition: 44 Barley, 45 Barley, pot, 46 Barley, pearled, 47 Bran, barley, 48 Flour, barley and grits, 49 Malt, 50 Malt extract"
+FBSH,Food Balance: Food Balances (old methodology and population),2546,Beans,"Default composition: 176 Beans, dry"
+FBSH,Food Balance: Food Balances (old methodology and population),2656,Beer,Default composition: 51 Beer of barley
+FBSH,Food Balance: Food Balances (old methodology and population),2658,"Beverages, Alcoholic","Default composition: 634 Beverages, distilled alcoholic"
+FBSH,Food Balance: Food Balances (old methodology and population),2657,"Beverages, Fermented","Default composition: 26 Beverages, fermented wheat, 39 Beverages, fermented rice, 66 Beer of maize, 82 Beer of millet, 86 Beer of sorghum, 517 Cider etc"
+FBSH,Food Balance: Food Balances (old methodology and population),2731,Bovine Meat,"Default composition: 867 Meat, cattle, 870 Meat, cattle, boneless (beef & veal), 872 Meat, beef, dried, salted, smoked, 873 Meat, extracts, 874 Meat, beef and veal sausages, 875 Meat, beef, preparations, 876 Meat, beef, canned, 877 Meat, homogenized preparations, 947 Meat, buffalo"
+FBSH,Food Balance: Food Balances (old methodology and population),2740,"Butter, Ghee","Default composition: 886 Butter, cow milk, 887 Ghee, butteroil of cow milk, 952 Butter, buffalo milk, 953 Ghee, of buffalo milk, 983 Butter and ghee, sheep milk, 1022 Butter of goat mlk"
+FBSH,Food Balance: Food Balances (old methodology and population),2532,Cassava and products,"Default composition: 125 Cassava, 126 Flour, cassava, 127 Tapioca, cassava, 128 Cassava dried, 129 Starch, cassava"
+FBSH,Food Balance: Food Balances (old methodology and population),2766,Cephalopods,"Default composition: 1570 Cephlp Fresh, 1571 Cphlp Frozen, 1572 Cphlp Cured, 1573 Cphlp Canned, 1574 Cphlp Pr nes, 1575 Cphlp Meals"
+FBSH,Food Balance: Food Balances (old methodology and population),2905,Cereals - Excluding Beer,
+FBSH,Food Balance: Food Balances (old methodology and population),2520,"Cereals, Other","Default composition: 68 Popcorn, 89 Buckwheat, 90 Flour, buckwheat, 91 Bran, buckwheat, 92 Quinoa, 94 Fonio, 95 Flour, fonio, 96 Bran, fonio, 97 Triticale, 98 Flour, triticale, 99 Bran, triticale, 101 Canary seed, 103 Grain, mixed, 104 Flour, mixed grain, 105 Bran, mixed grains, 108 Cereals, nes, 111 Flour, cereals, 112 Bran, cereals nes, 113 Cereal preparations, nes"
+FBSH,Food Balance: Food Balances (old methodology and population),2614,"Citrus, Other","Default composition: 512 Fruit, citrus nes, 513 Juice, citrus, single strength, 514 Juice, citrus, concentrated"
+FBSH,Food Balance: Food Balances (old methodology and population),2642,Cloves,Default composition: 698 Cloves
+FBSH,Food Balance: Food Balances (old methodology and population),2633,Cocoa Beans and products,"Default composition: 661 Cocoa, beans, 662 Cocoa, paste, 665 Cocoa, powder & cake, 666 Chocolate products nes"
+FBSH,Food Balance: Food Balances (old methodology and population),2578,Coconut Oil,"Default composition: 252 Oil, coconut (copra)"
+FBSH,Food Balance: Food Balances (old methodology and population),2560,Coconuts - Incl Copra,"Default composition: 249 Coconuts, 250 Coconuts, desiccated, 251 Copra"
+FBSH,Food Balance: Food Balances (old methodology and population),2630,Coffee and products,"Default composition: 656 Coffee, green, 657 Coffee, roasted, 659 Coffee, extracts"
+FBSH,Food Balance: Food Balances (old methodology and population),2559,Cottonseed,Default composition: 329 Cottonseed
+FBSH,Food Balance: Food Balances (old methodology and population),2575,Cottonseed Oil,"Default composition: 331 Oil, cottonseed"
+FBSH,Food Balance: Food Balances (old methodology and population),2743,Cream,Default composition: 885 Cream fresh
+FBSH,Food Balance: Food Balances (old methodology and population),2765,Crustaceans,"Default composition: 1553 Crstaceans F, 1554 Crstc Frozen, 1555 Crstc Cured, 1556 Crstc Canned, 1557 Crstc Pr nes, 1558 Crstc Meals"
+FBSH,Food Balance: Food Balances (old methodology and population),2619,Dates,Default composition: 577 Dates
+FBSH,Food Balance: Food Balances (old methodology and population),2762,Demersal Fish,"Default composition: 1514 Dmrsl Fresh, 1515 Dmrsl Fz Whl, 1516 Dmrsl Fillet, 1517 Dmrsl Fz Flt, 1518 Dmrsl Cured, 1519 Dmrsl Canned, 1520 Dmrsl Pr nes, 1521 Dmrsl Meals"
+FBSH,Food Balance: Food Balances (old methodology and population),2744,Eggs,"Default composition: 916 Egg albumine, 1062 Eggs, hen, in shell, 1063 Eggs, liquid, 1064 Eggs, dried, 1091 Eggs, other bird, in shell"
+FBSH,Food Balance: Food Balances (old methodology and population),2949,Eggs,
+FBSH,Food Balance: Food Balances (old methodology and population),2737,"Fats, Animals, Raw","Default composition: 869 Fat, cattle, 871 Fat, cattle butcher, 949 Fat, buffaloes, 979 Fat, sheep, 994 Grease incl. lanolin wool, 1019 Fat, goats, 1037 Fat, pigs, 1040 Fat, pig butcher, 1043 Lard, 1065 Fat, poultry, 1066 Fat, poultry, rendered, 1129 Fat, camels, 1160 Fat, other camelids, 1168 Oils, fats of animal nes, 1221 Lard stearine oil, 1222 Degras, 1225 Tallow, 1243 Fat, nes, prepared"
+FBSH,Food Balance: Food Balances (old methodology and population),2781,"Fish, Body Oil","Default composition: 1509 Frwt Bdy Oil, 1522 Dmrs Bdy Oil, 1535 Pelg Bdy Oil, 1548 Marn Bdy Oil, 1582 Aq M Oils"
+FBSH,Food Balance: Food Balances (old methodology and population),2782,"Fish, Liver Oil","Default composition: 1510 Frwt Lvr Oil, 1523 Demersal Liver Oils, 1536 Pelg Lvr Oil, 1549 Marine nes Liver Oils"
+FBSH,Food Balance: Food Balances (old methodology and population),2960,"Fish, Seafood",
+FBSH,Food Balance: Food Balances (old methodology and population),2761,Freshwater Fish,"Default composition: 1501 Frwtr Diad F, 1502 Frwtr Fz Whl, 1503 Frwtr Fillet, 1504 Frwtr Fz Flt, 1505 Frwtr Cured, 1506 Frwtr Canned, 1507 Frwtr Pr nes, 1508 Frwtr Meals"
+FBSH,Food Balance: Food Balances (old methodology and population),2919,Fruits - Excluding Wine,
+FBSH,Food Balance: Food Balances (old methodology and population),2625,"Fruits, Other","Default composition: 521 Pears, 523 Quinces, 526 Apricots, 527 Apricots, dry, 530 Cherries, sour, 531 Cherries, 534 Peaches and nectarines, 536 Plums and sloes, 537 Plums dried (prunes), 538 Juice, plum, single strength, 539 Juice, plum, concentrated, 541 Fruit, stone nes, 542 Fruit, pome nes, 544 Strawberries, 547 Raspberries, 549 Gooseberries, 550 Currants, 552 Blueberries, 554 Cranberries, 558 Berries nes, 567 Watermelons, 568 Melons, other (inc.cantaloupes), 569 Figs, 570 Figs dried, 571 Mangoes, mangosteens, guavas, 572 Avocados, 583 Juice, mango, 587 Persimmons, 591 Cashewapple, 592 Kiwi fruit, 600 Papayas, 603 Fruit, tropical fresh nes, 604 Fruit, tropical dried nes, 619 Fruit, fresh nes, 620 Fruit, dried nes, 622 Juice, fruit nes, 623 Fruit, prepared nes, 624 Flour, fruit, 625 Fruits, nuts, peel, sugar preserved, 626 Fruit, cooked, homogenized preparations"
+FBSH,Food Balance: Food Balances (old methodology and population),2901,Grand Total,
+FBSH,Food Balance: Food Balances (old methodology and population),2613,Grapefruit and products,"Default composition: 507 Grapefruit (inc. pomelos), 509 Juice, grapefruit, 510 Juice, grapefruit, concentrated"
+FBSH,Food Balance: Food Balances (old methodology and population),2620,Grapes and products (excl wine),"Default composition: 560 Grapes, 561 Raisins, 562 Juice, grape, 563 Grapes, must"
+FBSH,Food Balance: Food Balances (old methodology and population),2572,Groundnut Oil,"Default composition: 244 Oil, groundnut"
+FBSH,Food Balance: Food Balances (old methodology and population),2556,Groundnuts (Shelled Eq),"Default composition: 242 Groundnuts, with shell, 243 Groundnuts, shelled, 246 Groundnuts, prepared, 247 Peanut butter"
+FBSH,Food Balance: Food Balances (old methodology and population),2745,Honey,"Default composition: 1182 Honey, natural"
+FBSH,Food Balance: Food Balances (old methodology and population),2680,Infant food,Default composition: 109 Infant food
+FBSH,Food Balance: Food Balances (old methodology and population),2612,"Lemons, Limes and products","Default composition: 497 Lemons and limes, 498 Juice, lemon, single strength, 499 Juice, lemon, concentrated"
+FBSH,Food Balance: Food Balances (old methodology and population),2514,Maize and products,"Default composition: 56 Maize, 57 Germ, maize, 58 Flour, maize, 59 Bran, maize, 63 Gluten, maize, 64 Starch, maize, 846 Feed and meal, gluten"
+FBSH,Food Balance: Food Balances (old methodology and population),2582,Maize Germ Oil,"Default composition: 60 Oil, maize"
+FBSH,Food Balance: Food Balances (old methodology and population),2764,"Marine Fish, Other","Default composition: 1540 Marine nes F, 1541 Marin Fz Whl, 1542 Marin Fillet, 1543 Marin Fz Flt, 1544 Marin Cured, 1545 Marin Canned, 1546 Marin Pr nes, 1547 Marin Meals"
+FBSH,Food Balance: Food Balances (old methodology and population),2943,Meat,
+FBSH,Food Balance: Food Balances (old methodology and population),2768,"Meat, Aquatic Mammals","Default composition: 1580 Aq M Meat, 1583 Aq M Prep Ns"
+FBSH,Food Balance: Food Balances (old methodology and population),2735,"Meat, Other","Default composition: 1089 Meat, bird nes, 1097 Meat, horse, 1108 Meat, ass, 1111 Meat, mule, 1127 Meat, camel, 1141 Meat, rabbit, 1151 Meat, other rodents, 1158 Meat, other camelids, 1163 Meat, game, 1164 Meat, dried nes, 1166 Meat, nes, 1172 Meat, nes, preparations, 1176 Snails, not sea"
+FBSH,Food Balance: Food Balances (old methodology and population),2948,Milk - Excluding Butter,
+FBSH,Food Balance: Food Balances (old methodology and population),2848,Milk - Excluding Butter,"Default composition: 882 Milk, whole fresh cow, 888 Milk, skimmed cow, 889 Milk, whole condensed, 890 Whey, condensed, 891 Yoghurt, 892 Yoghurt, concentrated or not, 893 Buttermilk, curdled, acidified milk, 894 Milk, whole evaporated, 895 Milk, skimmed evaporated, 896 Milk, skimmed condensed, 897 Milk, whole dried, 898 Milk, skimmed dried, 899 Milk, dry buttermilk, 900 Whey, dry, 901 Cheese, whole cow milk, 903 Whey, fresh, 904 Cheese, skimmed cow milk, 905 Whey, cheese, 907 Cheese, processed, 908 Milk, reconstituted, 909 Milk, products of natural constituents nes, 910 Ice cream and edible ice, 917 Casein, 951 Milk, whole fresh buffalo, 954 Milk, skimmed buffalo, 955 Cheese, buffalo milk, 982 Milk, whole fresh sheep, 984 Cheese, sheep milk, 985 Milk, skimmed sheep, 1020 Milk, whole fresh goat, 1021 Cheese of goat mlk, 1023 Milk, skimmed goat, 1130 Milk, whole fresh camel"
+FBSH,Food Balance: Food Balances (old methodology and population),2517,Millet and products,"Default composition: 79 Millet, 80 Flour, millet, 81 Bran, millet"
+FBSH,Food Balance: Food Balances (old methodology and population),2899,Miscellaneous,
+FBSH,Food Balance: Food Balances (old methodology and population),2928,Miscellaneous,
+FBSH,Food Balance: Food Balances (old methodology and population),2767,"Molluscs, Other","Default composition: 1562 Mlluscs Frsh, 1563 Molsc Frozen, 1564 Molsc Cured, 1565 Molsc Canned, 1566 Molsc Meals"
+FBSH,Food Balance: Food Balances (old methodology and population),2732,Mutton & Goat Meat,"Default composition: 977 Meat, sheep, 1017 Meat, goat"
+FBSH,Food Balance: Food Balances (old methodology and population),2551,Nuts and products,"Default composition: 216 Brazil nuts, with shell, 217 Cashew nuts, with shell, 220 Chestnut, 221 Almonds, with shell, 222 Walnuts, with shell, 223 Pistachios, 224 Kola nuts, 225 Hazelnuts, with shell, 226 Areca nuts, 229 Brazil nuts, shelled, 230 Cashew nuts, shelled, 231 Almonds shelled, 232 Walnuts, shelled, 233 Hazelnuts, shelled, 234 Nuts, nes, 235 Nuts, prepared (exc. groundnuts)"
+FBSH,Food Balance: Food Balances (old methodology and population),2516,Oats,"Default composition: 75 Oats, 76 Oats rolled, 77 Bran, oats"
+FBSH,Food Balance: Food Balances (old methodology and population),2945,Offals,
+FBSH,Food Balance: Food Balances (old methodology and population),2736,"Offals, Edible","Default composition: 868 Offals, edible, cattle, 878 Liver prep., 948 Offals, edible, buffaloes, 978 Offals, sheep,edible, 1018 Offals, edible, goats, 1036 Offals, pigs, edible, 1059 Offals, liver chicken, 1074 Offals, liver geese, 1075 Offals, liver duck, 1081 Offals, liver turkeys, 1098 Offals, horses, 1128 Offals, edible, camels, 1159 Offals, other camelids, 1167 Offals, nes"
+FBSH,Food Balance: Food Balances (old methodology and population),2913,Oilcrops,
+FBSH,Food Balance: Food Balances (old methodology and population),2586,"Oilcrops Oil, Other","Default composition: 264 Butter of karite nuts, 266 Oil, castor beans, 276 Oil, tung nuts, 278 Oil, jojoba, 281 Oil, safflower, 297 Oil, poppy, 306 Vegetable tallow, 307 Oil, stillingia, 313 Oil, kapok, 334 Oil, linseed, 337 Oil, hempseed, 340 Oil, vegetable origin nes, 664 Cocoa, butter, 1241 Margarine, liquid, 1242 Margarine, short, 1273 Castor oil, hydrogenated (opal wax), 1274 Oil, boiled etc, 1275 Oil, hydrogenated"
+FBSH,Food Balance: Food Balances (old methodology and population),2570,"Oilcrops, Other","Default composition: 263 Karite nuts (sheanuts), 265 Castor oil seed, 275 Tung nuts, 277 Jojoba seed, 280 Safflower seed, 296 Poppy seed, 299 Melonseed, 305 Tallowtree seed, 310 Kapok fruit, 311 Kapokseed in shell, 312 Kapokseed shelled, 333 Linseed, 336 Hempseed, 339 Oilseeds nes, 343 Flour, oilseeds"
+FBSH,Food Balance: Food Balances (old methodology and population),2580,Olive Oil,"Default composition: 261 Oil, olive, virgin, 274 Oil, olive residues"
+FBSH,Food Balance: Food Balances (old methodology and population),2563,Olives (including preserved),"Default composition: 260 Olives, 262 Olives preserved"
+FBSH,Food Balance: Food Balances (old methodology and population),2602,Onions,"Default composition: 403 Onions, dry"
+FBSH,Food Balance: Food Balances (old methodology and population),2611,"Oranges, Mandarines","Default composition: 490 Oranges, 491 Juice, orange, single strength, 492 Juice, orange, concentrated, 495 Tangerines, mandarins, clementines, satsumas, 496 Juice, tangerine"
+FBSH,Food Balance: Food Balances (old methodology and population),2562,Palm kernels,"Default composition: 254 Oil, palm fruit, 256 Palm kernels"
+FBSH,Food Balance: Food Balances (old methodology and population),2577,Palm Oil,"Default composition: 257 Oil, palm, 1276 Fatty acids, 1277 Fatty substance residues"
+FBSH,Food Balance: Food Balances (old methodology and population),2576,Palmkernel Oil,"Default composition: 258 Oil, palm kernel"
+FBSH,Food Balance: Food Balances (old methodology and population),2547,Peas,"Default composition: 187 Peas, dry"
+FBSH,Food Balance: Food Balances (old methodology and population),2763,Pelagic Fish,"Default composition: 1527 Pelagic Frsh, 1528 Pelgc Fz Whl, 1529 Pelgc Fillet, 1530 Pelgc Fz Flt, 1531 Pelgc Cured, 1532 Pelgc Canned, 1533 Pelgc Pr nes, 1534 Pelgc Meals"
+FBSH,Food Balance: Food Balances (old methodology and population),2640,Pepper,Default composition: 687 Pepper (piper spp.)
+FBSH,Food Balance: Food Balances (old methodology and population),2733,Pigmeat,"Default composition: 1035 Meat, pig, 1038 Meat, pork, 1039 Bacon and ham, 1041 Meat, pig sausages, 1042 Meat, pig, preparations"
+FBSH,Food Balance: Food Balances (old methodology and population),2641,Pimento,"Default composition: 689 Chillies and peppers, dry"
+FBSH,Food Balance: Food Balances (old methodology and population),2618,Pineapples and products,"Default composition: 574 Pineapples, 575 Pineapples canned, 576 Juice, pineapple, 580 Juice, pineapple, concentrated"
+FBSH,Food Balance: Food Balances (old methodology and population),2616,Plantains,Default composition: 489 Plantains
+FBSH,Food Balance: Food Balances (old methodology and population),2501,Population,
+FBSH,Food Balance: Food Balances (old methodology and population),2531,Potatoes and products,"Default composition: 116 Potatoes, 117 Flour, potatoes, 118 Potatoes, frozen, 119 Starch, potatoes, 121 Tapioca, potatoes"
+FBSH,Food Balance: Food Balances (old methodology and population),2734,Poultry Meat,"Default composition: 1058 Meat, chicken, 1060 Fat, liver prepared (foie gras), 1061 Meat, chicken, canned, 1069 Meat, duck, 1073 Meat, goose and guinea fowl, 1080 Meat, turkey"
+FBSH,Food Balance: Food Balances (old methodology and population),2911,Pulses,
+FBSH,Food Balance: Food Balances (old methodology and population),2549,"Pulses, Other and products","Default composition: 181 Broad beans, horse beans, dry, 191 Chick peas, 195 Cow peas, dry, 197 Pigeon peas, 201 Lentils, 203 Bambara beans, 205 Vetches, 210 Lupins, 211 Pulses, nes, 212 Flour, pulses, 213 Bran, pulses"
+FBSH,Food Balance: Food Balances (old methodology and population),2574,Rape and Mustard Oil,"Default composition: 271 Oil, rapeseed, 293 Oil, mustard"
+FBSH,Food Balance: Food Balances (old methodology and population),2558,Rape and Mustardseed,"Default composition: 270 Rapeseed, 292 Mustard seed, 295 Flour, mustard"
+FBSH,Food Balance: Food Balances (old methodology and population),2805,Rice (Milled Equivalent),"Default composition: 27 Rice, paddy, 28 Rice, husked, 29 Rice, milled/husked, 31 Rice, milled, 32 Rice, broken, 33 Gluten, rice, 34 Starch, rice, 35 Bran, rice, 38 Flour, rice"
+FBSH,Food Balance: Food Balances (old methodology and population),2581,Ricebran Oil,"Default composition: 36 Oil, rice bran"
+FBSH,Food Balance: Food Balances (old methodology and population),2534,"Roots, Other","Default composition: 135 Yautia (cocoyam), 136 Taro (cocoyam), 149 Roots and tubers, nes, 150 Flour, roots and tubers nes, 151 Roots and tubers dried"
+FBSH,Food Balance: Food Balances (old methodology and population),2515,Rye and products,"Default composition: 71 Rye, 72 Flour, rye, 73 Bran, rye"
+FBSH,Food Balance: Food Balances (old methodology and population),2561,Sesame seed,Default composition: 289 Sesame seed
+FBSH,Food Balance: Food Balances (old methodology and population),2579,Sesameseed Oil,"Default composition: 290 Oil, sesame"
+FBSH,Food Balance: Food Balances (old methodology and population),2518,Sorghum and products,"Default composition: 83 Sorghum, 84 Flour, sorghum, 85 Bran, sorghum"
+FBSH,Food Balance: Food Balances (old methodology and population),2571,Soyabean Oil,"Default composition: 237 Oil, soybean"
+FBSH,Food Balance: Food Balances (old methodology and population),2555,Soyabeans,"Default composition: 236 Soybeans, 239 Soya sauce, 240 Soya paste, 241 Soya curd"
+FBSH,Food Balance: Food Balances (old methodology and population),2923,Spices,
+FBSH,Food Balance: Food Balances (old methodology and population),2645,"Spices, Other","Default composition: 692 Vanilla, 693 Cinnamon (canella), 702 Nutmeg, mace and cardamoms, 711 Anise, badian, fennel, coriander, 720 Ginger, 723 Spices, nes"
+FBSH,Food Balance: Food Balances (old methodology and population),2907,Starchy Roots,
+FBSH,Food Balance: Food Balances (old methodology and population),2922,Stimulants,
+FBSH,Food Balance: Food Balances (old methodology and population),2909,Sugar & Sweeteners,
+FBSH,Food Balance: Food Balances (old methodology and population),2542,Sugar (Raw Equivalent),"Default composition: 158 Sugar, cane, raw, centrifugal, 159 Sugar, beet, raw, centrifugal, 162 Sugar Raw Centrifugal, 164 Sugar refined, 168 Sugar confectionery, 171 Sugar flavoured"
+FBSH,Food Balance: Food Balances (old methodology and population),2537,Sugar beet,Default composition: 157 Sugar beet
+FBSH,Food Balance: Food Balances (old methodology and population),2536,Sugar cane,Default composition: 156 Sugar cane
+FBSH,Food Balance: Food Balances (old methodology and population),2908,Sugar Crops,
+FBSH,Food Balance: Food Balances (old methodology and population),2541,Sugar non-centrifugal,Default composition: 163 Sugar non-centrifugal
+FBSH,Food Balance: Food Balances (old methodology and population),2557,Sunflower seed,Default composition: 267 Sunflower seed
+FBSH,Food Balance: Food Balances (old methodology and population),2573,Sunflowerseed Oil,"Default composition: 268 Oil, sunflower"
+FBSH,Food Balance: Food Balances (old methodology and population),2533,Sweet potatoes,Default composition: 122 Sweet potatoes
+FBSH,Food Balance: Food Balances (old methodology and population),2543,"Sweeteners, Other","Default composition: 154 Fructose chemically pure, 155 Maltose chemically pure, 160 Maple sugar and syrups, 161 Sugar crops, nes, 165 Molasses, 166 Fructose and syrup, other, 167 Sugar, nes, 172 Glucose and dextrose, 173 Lactose, 175 Isoglucose, 633 Beverages, non alcoholic"
+FBSH,Food Balance: Food Balances (old methodology and population),2635,Tea (including mate),"Default composition: 667 Tea, 671 Maté, 672 Tea, mate extracts"
+FBSH,Food Balance: Food Balances (old methodology and population),2601,Tomatoes and products,"Default composition: 388 Tomatoes, 389 Juice, tomato, concentrated, 390 Juice, tomato, 391 Tomatoes, paste, 392 Tomatoes, peeled"
+FBSH,Food Balance: Food Balances (old methodology and population),2912,Treenuts,
+FBSH,Food Balance: Food Balances (old methodology and population),2914,Vegetable Oils,
+FBSH,Food Balance: Food Balances (old methodology and population),2918,Vegetables,
+FBSH,Food Balance: Food Balances (old methodology and population),2605,"Vegetables, Other","Default composition: 358 Cabbages and other brassicas, 366 Artichokes, 367 Asparagus, 372 Lettuce and chicory, 373 Spinach, 378 Cassava leaves, 393 Cauliflowers and broccoli, 394 Pumpkins, squash and gourds, 397 Cucumbers and gherkins, 399 Eggplants (aubergines), 401 Chillies and peppers, green, 402 Onions, shallots, green, 406 Garlic, 407 Leeks, other alliaceous vegetables, 414 Beans, green, 417 Peas, green, 420 Vegetables, leguminous nes, 423 String beans, 426 Carrots and turnips, 430 Okra, 446 Maize, green, 447 Sweet corn frozen, 448 Sweet corn prep or preserved, 449 Mushrooms and truffles, 450 Mushrooms, dried, 451 Mushrooms, canned, 459 Chicory roots, 461 Carobs, 463 Vegetables, fresh nes, 464 Vegetables, dried nes, 465 Vegetables, canned nes, 466 Juice, vegetables nes, 469 Vegetables, dehydrated, 471 Vegetables in vinegar, 472 Vegetables, preserved nes, 473 Vegetables, frozen, 474 Vegetables, temporarily preserved, 475 Vegetables, preserved, frozen, 476 Vegetables, homogenized preparations, 567 Watermelons, 568 Melons, other (inc.cantaloupes), 658 Coffee, substitutes containing coffee"
+FBSH,Food Balance: Food Balances (old methodology and population),2903,Vegetal Products,
+FBSH,Food Balance: Food Balances (old methodology and population),2511,Wheat and products,"Default composition: 15 Wheat, 16 Flour, wheat, 17 Bran, wheat, 18 Macaroni, 19 Germ, wheat, 20 Bread, 21 Bulgur, 22 Pastry, 23 Starch, wheat, 24 Gluten, wheat, 41 Cereals, breakfast, 110 Wafers, 114 Mixes and doughs, 115 Food preparations, flour, malt extract"
+FBSH,Food Balance: Food Balances (old methodology and population),2655,Wine,"Default composition: 564 Wine, 565 Vermouths & similar"
+FBSH,Food Balance: Food Balances (old methodology and population),2535,Yams,Default composition: 137 Yams
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2924,Alcoholic Beverages,
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2617,Apples and products,"Default composition: 515 Apples, 518 Juice, apple, single strength, 519 Juice, apple, concentrated"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2615,Bananas,Default composition: 486 Bananas
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2513,Barley and products,"Default composition: 44 Barley, 45 Barley, pot, 46 Barley, pearled, 47 Bran, barley, 48 Flour, barley and grits, 49 Malt, 50 Malt extract"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2546,Beans,"Default composition: 176 Beans, dry"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2656,Beer,Default composition: 51 Beer of barley
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2658,"Beverages, Alcoholic","Default composition: 634 Beverages, distilled alcoholic"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2657,"Beverages, Fermented","Default composition: 26 Beverages, fermented wheat, 39 Beverages, fermented rice, 66 Beer of maize, 82 Beer of millet, 86 Beer of sorghum, 517 Cider etc"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2532,Cassava and products,"Default composition: 125 Cassava, 126 Flour, cassava, 127 Tapioca, cassava, 128 Cassava dried, 129 Starch, cassava"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2905,Cereals - Excluding Beer,
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2520,"Cereals, Other","Default composition: 68 Popcorn, 89 Buckwheat, 90 Flour, buckwheat, 91 Bran, buckwheat, 92 Quinoa, 94 Fonio, 95 Flour, fonio, 96 Bran, fonio, 97 Triticale, 98 Flour, triticale, 99 Bran, triticale, 101 Canary seed, 103 Grain, mixed, 104 Flour, mixed grain, 105 Bran, mixed grains, 108 Cereals, nes, 111 Flour, cereals, 112 Bran, cereals nes, 113 Cereal preparations, nes"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2614,"Citrus, Other","Default composition: 512 Fruit, citrus nes, 513 Juice, citrus, single strength, 514 Juice, citrus, concentrated"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2642,Cloves,Default composition: 698 Cloves
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2633,Cocoa Beans and products,"Default composition: 661 Cocoa, beans, 662 Cocoa, paste, 665 Cocoa, powder & cake, 666 Chocolate products nes"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2578,Coconut Oil,"Default composition: 252 Oil, coconut (copra)"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2560,Coconuts - Incl Copra,"Default composition: 249 Coconuts, 250 Coconuts, desiccated, 251 Copra"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2630,Coffee and products,"Default composition: 656 Coffee, green, 657 Coffee, roasted, 659 Coffee, extracts"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2575,Cottonseed Oil,"Default composition: 331 Oil, cottonseed"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2619,Dates,Default composition: 577 Dates
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2919,Fruits - Excluding Wine,
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2625,"Fruits, Other","Default composition: 521 Pears, 523 Quinces, 526 Apricots, 527 Apricots, dry, 530 Cherries, sour, 531 Cherries, 534 Peaches and nectarines, 536 Plums and sloes, 537 Plums dried (prunes), 538 Juice, plum, single strength, 539 Juice, plum, concentrated, 541 Fruit, stone nes, 542 Fruit, pome nes, 544 Strawberries, 547 Raspberries, 549 Gooseberries, 550 Currants, 552 Blueberries, 554 Cranberries, 558 Berries nes, 567 Watermelons, 568 Melons, other (inc.cantaloupes), 569 Figs, 570 Figs dried, 571 Mangoes, mangosteens, guavas, 572 Avocados, 583 Juice, mango, 587 Persimmons, 591 Cashewapple, 592 Kiwi fruit, 600 Papayas, 603 Fruit, tropical fresh nes, 604 Fruit, tropical dried nes, 619 Fruit, fresh nes, 620 Fruit, dried nes, 622 Juice, fruit nes, 623 Fruit, prepared nes, 624 Flour, fruit, 625 Fruits, nuts, peel, sugar preserved, 626 Fruit, cooked, homogenized preparations"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2901,Grand Total,
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2613,Grapefruit and products,"Default composition: 507 Grapefruit (inc. pomelos), 509 Juice, grapefruit, 510 Juice, grapefruit, concentrated"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2620,Grapes and products (excl wine),"Default composition: 560 Grapes, 561 Raisins, 562 Juice, grape, 563 Grapes, must"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2572,Groundnut Oil,"Default composition: 244 Oil, groundnut"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2820,Groundnuts (in Shell Eq),"Default composition: 242 Groundnuts, with shell"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2556,Groundnuts (Shelled Eq),"Default composition: 242 Groundnuts, with shell, 243 Groundnuts, shelled, 246 Groundnuts, prepared, 247 Peanut butter"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2680,Infant food,Default composition: 109 Infant food
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2612,"Lemons, Limes and products","Default composition: 497 Lemons and limes, 498 Juice, lemon, single strength, 499 Juice, lemon, concentrated"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2514,Maize and products,"Default composition: 56 Maize, 57 Germ, maize, 58 Flour, maize, 59 Bran, maize, 63 Gluten, maize, 64 Starch, maize, 846 Feed and meal, gluten"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2582,Maize Germ Oil,"Default composition: 60 Oil, maize"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2517,Millet and products,"Default composition: 79 Millet, 80 Flour, millet, 81 Bran, millet"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2899,Miscellaneous,
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2928,Miscellaneous,
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2544,Molasses,Default composition: 165 Molasses
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2551,Nuts and products,"Default composition: 216 Brazil nuts, with shell, 217 Cashew nuts, with shell, 220 Chestnut, 221 Almonds, with shell, 222 Walnuts, with shell, 223 Pistachios, 224 Kola nuts, 225 Hazelnuts, with shell, 226 Areca nuts, 229 Brazil nuts, shelled, 230 Cashew nuts, shelled, 231 Almonds shelled, 232 Walnuts, shelled, 233 Hazelnuts, shelled, 234 Nuts, nes, 235 Nuts, prepared (exc. groundnuts)"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2516,Oats,"Default composition: 75 Oats, 76 Oats rolled, 77 Bran, oats"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2913,Oilcrops,
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2586,"Oilcrops Oil, Other","Default composition: 264 Butter of karite nuts, 266 Oil, castor beans, 276 Oil, tung nuts, 278 Oil, jojoba, 281 Oil, safflower, 297 Oil, poppy, 306 Vegetable tallow, 307 Oil, stillingia, 313 Oil, kapok, 334 Oil, linseed, 337 Oil, hempseed, 340 Oil, vegetable origin nes, 664 Cocoa, butter, 1241 Margarine, liquid, 1242 Margarine, short, 1273 Castor oil, hydrogenated (opal wax), 1274 Oil, boiled etc, 1275 Oil, hydrogenated"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2570,"Oilcrops, Other","Default composition: 263 Karite nuts (sheanuts), 265 Castor oil seed, 275 Tung nuts, 277 Jojoba seed, 280 Safflower seed, 296 Poppy seed, 299 Melonseed, 305 Tallowtree seed, 310 Kapok fruit, 311 Kapokseed in shell, 312 Kapokseed shelled, 333 Linseed, 336 Hempseed, 339 Oilseeds nes, 343 Flour, oilseeds"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2580,Olive Oil,"Default composition: 261 Oil, olive, virgin, 274 Oil, olive residues"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2563,Olives (including preserved),"Default composition: 260 Olives, 262 Olives preserved"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2602,Onions,"Default composition: 403 Onions, dry"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2611,"Oranges, Mandarines","Default composition: 490 Oranges, 491 Juice, orange, single strength, 492 Juice, orange, concentrated, 495 Tangerines, mandarins, clementines, satsumas, 496 Juice, tangerine"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2577,Palm Oil,"Default composition: 257 Oil, palm, 1276 Fatty acids, 1277 Fatty substance residues"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2576,Palmkernel Oil,"Default composition: 258 Oil, palm kernel"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2547,Peas,"Default composition: 187 Peas, dry"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2640,Pepper,Default composition: 687 Pepper (piper spp.)
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2641,Pimento,"Default composition: 689 Chillies and peppers, dry"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2618,Pineapples and products,"Default composition: 574 Pineapples, 575 Pineapples canned, 576 Juice, pineapple, 580 Juice, pineapple, concentrated"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2616,Plantains,Default composition: 489 Plantains
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2531,Potatoes and products,"Default composition: 116 Potatoes, 117 Flour, potatoes, 118 Potatoes, frozen, 119 Starch, potatoes, 121 Tapioca, potatoes"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2911,Pulses,
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2549,"Pulses, Other and products","Default composition: 181 Broad beans, horse beans, dry, 191 Chick peas, 195 Cow peas, dry, 197 Pigeon peas, 201 Lentils, 203 Bambara beans, 205 Vetches, 210 Lupins, 211 Pulses, nes, 212 Flour, pulses, 213 Bran, pulses"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2574,Rape and Mustard Oil,"Default composition: 271 Oil, rapeseed, 293 Oil, mustard"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2804,Rice (Paddy Equivalent),"Default composition: 27 Rice, paddy, 33 Gluten, rice, 35 Bran, rice"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2805,Rice and products,"Default composition: 27 Rice, paddy, 28 Rice, husked, 29 Rice, milled/husked, 31 Rice, milled, 32 Rice, broken, 33 Gluten, rice, 34 Starch, rice, 35 Bran, rice, 38 Flour, rice"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2581,Ricebran Oil,"Default composition: 36 Oil, rice bran"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2815,Roots & Tuber Dry Equiv,
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2534,"Roots, Other","Default composition: 135 Yautia (cocoyam), 136 Taro (cocoyam), 149 Roots and tubers, nes, 150 Flour, roots and tubers nes, 151 Roots and tubers dried"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2515,Rye and products,"Default composition: 71 Rye, 72 Flour, rye, 73 Bran, rye"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2561,Sesame seed,Default composition: 289 Sesame seed
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2579,Sesameseed Oil,"Default composition: 290 Oil, sesame"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2518,Sorghum and products,"Default composition: 83 Sorghum, 84 Flour, sorghum, 85 Bran, sorghum"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2571,Soyabean Oil,"Default composition: 237 Oil, soybean"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2555,Soyabeans,"Default composition: 236 Soybeans, 239 Soya sauce, 240 Soya paste, 241 Soya curd"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2923,Spices,
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2645,"Spices, Other","Default composition: 692 Vanilla, 693 Cinnamon (canella), 702 Nutmeg, mace and cardamoms, 711 Anise, badian, fennel, coriander, 720 Ginger, 723 Spices, nes"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2907,Starchy Roots,
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2922,Stimulants,
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2909,Sugar & Sweeteners,
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2542,Sugar (Raw Equivalent),"Default composition: 158 Sugar, cane, raw, centrifugal, 159 Sugar, beet, raw, centrifugal, 162 Sugar Raw Centrifugal, 164 Sugar refined, 168 Sugar confectionery, 171 Sugar flavoured"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2537,Sugar beet,Default composition: 157 Sugar beet
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2536,Sugar cane,Default composition: 156 Sugar cane
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2908,Sugar Crops,
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2541,Sugar non-centrifugal,Default composition: 163 Sugar non-centrifugal
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2827,"Sugar, Raw Equivalent","Default composition: 154 Fructose chemically pure, 155 Maltose chemically pure, 160 Maple sugar and syrups, 161 Sugar crops, nes, 162 Sugar Raw Centrifugal, 163 Sugar non-centrifugal, 166 Fructose and syrup, other, 167 Sugar, nes, 172 Glucose and dextrose, 173 Lactose"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2818,"Sugar, Refined Equiv",Default composition: 162 Sugar Raw Centrifugal
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2557,Sunflower seed,Default composition: 267 Sunflower seed
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2573,Sunflowerseed Oil,"Default composition: 268 Oil, sunflower"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2533,Sweet potatoes,Default composition: 122 Sweet potatoes
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2543,"Sweeteners, Other","Default composition: 154 Fructose chemically pure, 155 Maltose chemically pure, 160 Maple sugar and syrups, 161 Sugar crops, nes, 165 Molasses, 166 Fructose and syrup, other, 167 Sugar, nes, 172 Glucose and dextrose, 173 Lactose, 175 Isoglucose, 633 Beverages, non alcoholic"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2635,Tea (including mate),"Default composition: 667 Tea, 671 Maté, 672 Tea, mate extracts"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2601,Tomatoes and products,"Default composition: 388 Tomatoes, 389 Juice, tomato, concentrated, 390 Juice, tomato, 391 Tomatoes, paste, 392 Tomatoes, peeled"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2912,Treenuts,
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2914,Vegetable Oils,
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2918,Vegetables,
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2605,"Vegetables, Other","Default composition: 358 Cabbages and other brassicas, 366 Artichokes, 367 Asparagus, 372 Lettuce and chicory, 373 Spinach, 378 Cassava leaves, 393 Cauliflowers and broccoli, 394 Pumpkins, squash and gourds, 397 Cucumbers and gherkins, 399 Eggplants (aubergines), 401 Chillies and peppers, green, 402 Onions, shallots, green, 406 Garlic, 407 Leeks, other alliaceous vegetables, 414 Beans, green, 417 Peas, green, 420 Vegetables, leguminous nes, 423 String beans, 426 Carrots and turnips, 430 Okra, 446 Maize, green, 447 Sweet corn frozen, 448 Sweet corn prep or preserved, 449 Mushrooms and truffles, 450 Mushrooms, dried, 451 Mushrooms, canned, 459 Chicory roots, 461 Carobs, 463 Vegetables, fresh nes, 464 Vegetables, dried nes, 465 Vegetables, canned nes, 466 Juice, vegetables nes, 469 Vegetables, dehydrated, 471 Vegetables in vinegar, 472 Vegetables, preserved nes, 473 Vegetables, frozen, 474 Vegetables, temporarily preserved, 475 Vegetables, preserved, frozen, 476 Vegetables, homogenized preparations, 567 Watermelons, 568 Melons, other (inc.cantaloupes), 658 Coffee, substitutes containing coffee"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2903,Vegetal Products,
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2511,Wheat and products,"Default composition: 15 Wheat, 16 Flour, wheat, 17 Bran, wheat, 18 Macaroni, 19 Germ, wheat, 20 Bread, 21 Bulgur, 22 Pastry, 23 Starch, wheat, 24 Gluten, wheat, 41 Cereals, breakfast, 110 Wafers, 114 Mixes and doughs, 115 Food preparations, flour, malt extract"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2655,Wine,"Default composition: 564 Wine, 565 Vermouths & similar"
+CC,Food Balance: Food Supply - Crops Primary Equivalent,2535,Yams,Default composition: 137 Yams
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2946,Animal fats,
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2941,Animal Products,
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2769,"Aquatic Animals, Others","Default composition: 1587 Aqutc Anim F, 1588 Aq A Cured, 1589 Aquatic Animals Meals, 1590 Aq A Prep Ns"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2775,Aquatic Plants,"Default composition: 1594 Aquatic plants, fresh, 1595 Aquatic plants, dried, 1596 Aquatic plants, other preparations"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2961,"Aquatic Products, Other",
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2731,Bovine Meat,"Default composition: 867 Meat, cattle, 870 Meat, cattle, boneless (beef & veal), 872 Meat, beef, dried, salted, smoked, 873 Meat, extracts, 874 Meat, beef and veal sausages, 875 Meat, beef, preparations, 876 Meat, beef, canned, 877 Meat, homogenized preparations, 947 Meat, buffalo"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2740,"Butter, Ghee","Default composition: 886 Butter, cow milk, 887 Ghee, butteroil of cow milk, 952 Butter, buffalo milk, 953 Ghee, of buffalo milk, 983 Butter and ghee, sheep milk, 1022 Butter of goat mlk"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2766,Cephalopods,"Default composition: 1570 Cephlp Fresh, 1571 Cphlp Frozen, 1572 Cphlp Cured, 1573 Cphlp Canned, 1574 Cphlp Pr nes, 1575 Cphlp Meals"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2741,Cheese,
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2743,Cream,Default composition: 885 Cream fresh
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2765,Crustaceans,"Default composition: 1553 Crstaceans F, 1554 Crstc Frozen, 1555 Crstc Cured, 1556 Crstc Canned, 1557 Crstc Pr nes, 1558 Crstc Meals"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2762,Demersal Fish,"Default composition: 1514 Dmrsl Fresh, 1515 Dmrsl Fz Whl, 1516 Dmrsl Fillet, 1517 Dmrsl Fz Flt, 1518 Dmrsl Cured, 1519 Dmrsl Canned, 1520 Dmrsl Pr nes, 1521 Dmrsl Meals"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2744,Eggs,"Default composition: 916 Egg albumine, 1062 Eggs, hen, in shell, 1063 Eggs, liquid, 1064 Eggs, dried, 1091 Eggs, other bird, in shell"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2949,Eggs,
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2737,"Fats, Animals, Raw","Default composition: 869 Fat, cattle, 871 Fat, cattle butcher, 949 Fat, buffaloes, 979 Fat, sheep, 994 Grease incl. lanolin wool, 1019 Fat, goats, 1037 Fat, pigs, 1040 Fat, pig butcher, 1043 Lard, 1065 Fat, poultry, 1066 Fat, poultry, rendered, 1129 Fat, camels, 1160 Fat, other camelids, 1168 Oils, fats of animal nes, 1221 Lard stearine oil, 1222 Degras, 1225 Tallow, 1243 Fat, nes, prepared"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2855,Fish Meal,"Default composition: 1511 Freshwater Meal Fr Offal, 1524 Demersal Meal from Offal, 1537 Pelagic Meal from Offal, 1550 Marn Meal Of, 1559 Crustaceans Meal F Offal, 1567 Molluscs Meal from Offal, 1576 Cephalopods Meal F Offal, 1581 Aquatic Mammals Meals, 1584 Aqua Mammal Meal F Offal, 1591 Aq A Meal Of"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2781,"Fish, Body Oil","Default composition: 1509 Frwt Bdy Oil, 1522 Dmrs Bdy Oil, 1535 Pelg Bdy Oil, 1548 Marn Bdy Oil, 1582 Aq M Oils"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2782,"Fish, Liver Oil","Default composition: 1510 Frwt Lvr Oil, 1523 Demersal Liver Oils, 1536 Pelg Lvr Oil, 1549 Marine nes Liver Oils"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2960,"Fish, Seafood",
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2761,Freshwater Fish,"Default composition: 1501 Frwtr Diad F, 1502 Frwtr Fz Whl, 1503 Frwtr Fillet, 1504 Frwtr Fz Flt, 1505 Frwtr Cured, 1506 Frwtr Canned, 1507 Frwtr Pr nes, 1508 Frwtr Meals"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2901,Grand Total,
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2748,Hides and skins,"Default composition: 919 Hides, cattle, fresh, 920 Hides, cattle, wet salted, 921 Hides, cattle, dry salted, 922 Hides, cattle, nes, 928 Skins, calve, wet salted, 929 Skins, calve, dry salted, 930 Skins, calve, nes, 957 Hides, buffalo, fresh, 958 Hides, buffalo, wet salted, 959 Hides, buffalo, dry salted, 995 Skins, sheep, fresh, 996 Skins, sheep, wet salted, 997 Skins, sheep, dry salted, 998 Skins, sheep, nes, 999 Skins, sheep, with wool, 1002 Skins, karakul, 1025 Skins, goat, fresh, 1026 Skins, goat, wet salted, 1027 Skins, goat, dry salted, 1028 Skins, goat, nes, 1044 Skins, pig, fresh, 1045 Skins, pig, wet salted, 1046 Skins, pig, dry salted, 1047 Skins, pig, nes, 1102 Hides, horse, fresh, 1103 Hides, horse, wet salted, 1104 Hides, horse, dry salted, 1105 Hides, horse, nes, 1109 Hides, ass, fresh, 1112 Hides, mule, fresh, 1133 Hides, camel, fresh, 1134 Hides, camel, wet salted, 1135 Hides, camel, dry salted, 1136 Hides, camel, nes, 1146 Skins, rabbit, 1195 Skins, furs, 1213 Hides and skins nes, fresh, 1214 Hides, wet salted, nes, 1215 Hides, nes, dry salted"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2745,Honey,"Default composition: 1182 Honey, natural"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2764,"Marine Fish, Other","Default composition: 1540 Marine nes F, 1541 Marin Fz Whl, 1542 Marin Fillet, 1543 Marin Fz Flt, 1544 Marin Cured, 1545 Marin Canned, 1546 Marin Pr nes, 1547 Marin Meals"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2943,Meat,
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2749,Meat Meal,"Default composition: 1173 Meal, meat, 1175 Meal, blood"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2768,"Meat, Aquatic Mammals","Default composition: 1580 Aq M Meat, 1583 Aq M Prep Ns"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2735,"Meat, Other","Default composition: 1089 Meat, bird nes, 1097 Meat, horse, 1108 Meat, ass, 1111 Meat, mule, 1127 Meat, camel, 1141 Meat, rabbit, 1151 Meat, other rodents, 1158 Meat, other camelids, 1163 Meat, game, 1164 Meat, dried nes, 1166 Meat, nes, 1172 Meat, nes, preparations, 1176 Snails, not sea"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2848,Milk - Excluding Butter,"Default composition: 882 Milk, whole fresh cow, 888 Milk, skimmed cow, 889 Milk, whole condensed, 890 Whey, condensed, 891 Yoghurt, 892 Yoghurt, concentrated or not, 893 Buttermilk, curdled, acidified milk, 894 Milk, whole evaporated, 895 Milk, skimmed evaporated, 896 Milk, skimmed condensed, 897 Milk, whole dried, 898 Milk, skimmed dried, 899 Milk, dry buttermilk, 900 Whey, dry, 901 Cheese, whole cow milk, 903 Whey, fresh, 904 Cheese, skimmed cow milk, 905 Whey, cheese, 907 Cheese, processed, 908 Milk, reconstituted, 909 Milk, products of natural constituents nes, 910 Ice cream and edible ice, 917 Casein, 951 Milk, whole fresh buffalo, 954 Milk, skimmed buffalo, 955 Cheese, buffalo milk, 982 Milk, whole fresh sheep, 984 Cheese, sheep milk, 985 Milk, skimmed sheep, 1020 Milk, whole fresh goat, 1021 Cheese of goat mlk, 1023 Milk, skimmed goat, 1130 Milk, whole fresh camel"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2948,Milk - Excluding Butter,
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2738,"Milk, Whole",
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2767,"Molluscs, Other","Default composition: 1562 Mlluscs Frsh, 1563 Molsc Frozen, 1564 Molsc Cured, 1565 Molsc Canned, 1566 Molsc Meals"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2732,Mutton & Goat Meat,"Default composition: 977 Meat, sheep, 1017 Meat, goat"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2945,Offals,
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2736,"Offals, Edible","Default composition: 868 Offals, edible, cattle, 878 Liver prep., 948 Offals, edible, buffaloes, 978 Offals, sheep,edible, 1018 Offals, edible, goats, 1036 Offals, pigs, edible, 1059 Offals, liver chicken, 1074 Offals, liver geese, 1075 Offals, liver duck, 1081 Offals, liver turkeys, 1098 Offals, horses, 1128 Offals, edible, camels, 1159 Offals, other camelids, 1167 Offals, nes"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2763,Pelagic Fish,"Default composition: 1527 Pelagic Frsh, 1528 Pelgc Fz Whl, 1529 Pelgc Fillet, 1530 Pelgc Fz Flt, 1531 Pelgc Cured, 1532 Pelgc Canned, 1533 Pelgc Pr nes, 1534 Pelgc Meals"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2733,Pigmeat,"Default composition: 1035 Meat, pig, 1038 Meat, pork, 1039 Bacon and ham, 1041 Meat, pig sausages, 1042 Meat, pig, preparations"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2734,Poultry Meat,"Default composition: 1058 Meat, chicken, 1060 Fat, liver prepared (foie gras), 1061 Meat, chicken, canned, 1069 Meat, duck, 1073 Meat, goose and guinea fowl, 1080 Meat, turkey"
+CL,Food Balance: Food Supply - Livestock and Fish Primary Equivalent,2742,Whey,
+FBS,Food Balance: New Food Balances,2659,"Alcohol, Non-Food",Default composition: 632 Alcohol non food
+FBS,Food Balance: New Food Balances,2924,Alcoholic Beverages,
+FBS,Food Balance: New Food Balances,2946,Animal fats,
+FBS,Food Balance: New Food Balances,2941,Animal Products,
+FBS,Food Balance: New Food Balances,2617,Apples and products,"Default composition: 515 Apples, 518 Juice, apple, single strength, 519 Juice, apple, concentrated"
+FBS,Food Balance: New Food Balances,2769,"Aquatic Animals, Others","Default composition: 1587 Aqutc Anim F, 1588 Aq A Cured, 1589 Aquatic Animals Meals, 1590 Aq A Prep Ns"
+FBS,Food Balance: New Food Balances,2775,Aquatic Plants,"Default composition: 1594 Aquatic plants, fresh, 1595 Aquatic plants, dried, 1596 Aquatic plants, other preparations"
+FBS,Food Balance: New Food Balances,2961,"Aquatic Products, Other",
+FBS,Food Balance: New Food Balances,2615,Bananas,Default composition: 486 Bananas
+FBS,Food Balance: New Food Balances,2513,Barley and products,"Default composition: 44 Barley, 45 Barley, pot, 46 Barley, pearled, 47 Bran, barley, 48 Flour, barley and grits, 49 Malt, 50 Malt extract"
+FBS,Food Balance: New Food Balances,2546,Beans,"Default composition: 176 Beans, dry"
+FBS,Food Balance: New Food Balances,2656,Beer,Default composition: 51 Beer of barley
+FBS,Food Balance: New Food Balances,2658,"Beverages, Alcoholic","Default composition: 634 Beverages, distilled alcoholic"
+FBS,Food Balance: New Food Balances,2657,"Beverages, Fermented","Default composition: 26 Beverages, fermented wheat, 39 Beverages, fermented rice, 66 Beer of maize, 82 Beer of millet, 86 Beer of sorghum, 517 Cider etc"
